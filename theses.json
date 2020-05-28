@@ -2,42 +2,42 @@
  "theses": [
   {
    "content": "Results: The one-step H1N1 swl matrix rtRT-PCR successfully detected H1N1 swl clinical specimens and did not cross-react with seasonal influenza A, subtypes H1N1 and H3N2 viruses and swine influenza A (H1N1).",
-   "http://onto.beef.org.pl/science/QuasiFunctionalLaw": 98.9850759506,
+   "quasi_functional_thesis": 98.9850759506,
    "entities": [
     "h1n1"
    ]
   },
   {
    "content": "As expected, cats from endemic areas produce IFN-γ after ex vivo blood stimulation with LSA and therefore are able to activate a cell-mediated adaptive immune response against the parasite that is variably associated with antibody or blood PCR positivity.",
-   "http://onto.beef.org.pl/science/MethodologicalLaw": 99.9940693378,
+   "methodological_thesis": 99.9940693378,
    "entities": [
     "blood"
    ]
   },
   {
    "content": "For successful cell fusion, two sequential steps of electric pulse stimulation are required for the alignment (pearl chain formation) of two different types of cells between electrodes in response to alternating current stimulation and for the fusion of cytoplasmic membranes by direct current stimulation.",
-   "http://onto.beef.org.pl/science/QuasiFunctionalLaw": 97.8340506554,
+   "quasi_functional_thesis": 97.8340506554,
    "entities": [
     "cytoplasmic membrane"
    ]
   },
   {
    "content": "This approach can lead to a limited understanding of trust in physicians as trust is based on the relationship, an interaction of both parties: patients and physicians.",
-   "http://onto.beef.org.pl/science/MethodologicalLaw": 99.9825894833,
+   "methodological_thesis": 99.9825894833,
    "entities": [
     "patient"
    ]
   },
   {
    "content": "derived from parental cells coordinately regulates the new phenotypes and functions of somatic hybrid cells.",
-   "http://onto.beef.org.pl/science/InclusionLaw": 98.0052709579,
+   "inclusion_thesis": 98.0052709579,
    "entities": [
     "somatic hybrid cell"
    ]
   },
   {
    "content": "This study aimed to investigate the factors for trust in physicians among the Koreans by focusing on patients' traits which are related to their subjective perceptions.",
-   "http://onto.beef.org.pl/science/QuasiFunctionalLaw": 94.4436907768,
+   "quasi_functional_thesis": 94.4436907768,
    "entities": [
     "patient"
    ]
