@@ -10,6 +10,11 @@
     }
    ],
    "entities": [
+    "h1n1 swl matrix rtrt-pcr",
+    "h1n1 swl",
+    "h1n1",
+    "h3n2 virus",
+    "swine influenza a",
     "h1n1"
    ]
   },
@@ -23,6 +28,9 @@
     }
    ],
    "entities": [
+    "cat",
+    "ifn-γ",
+    "blood",
     "blood"
    ]
   },
@@ -41,6 +49,7 @@
     }
    ],
    "entities": [
+    "h1n1 swl matrix",
     "h5n1"
    ]
   },
@@ -54,6 +63,8 @@
     }
    ],
    "entities": [
+    "cell",
+    "cell",
     "cytoplasmic membrane"
    ]
   },
@@ -80,6 +91,7 @@
     }
    ],
    "entities": [
+    "cell",
     "somatic hybrid cell"
    ]
   },
@@ -98,6 +110,8 @@
     }
    ],
    "entities": [
+    "tiva",
+    "smooth",
     "rabbit"
    ]
   },
@@ -111,6 +125,7 @@
     }
    ],
    "entities": [
+    "Koreans",
     "patient"
    ]
   },
@@ -201,6 +216,7 @@
     }
    ],
    "entities": [
+    "pronucleus",
     "sperm"
    ]
   },
@@ -266,6 +282,9 @@
     }
    ],
    "entities": [
+    "sperm chromatin",
+    "nucleoplasmin",
+    "histone ( 2",
     "cell"
    ]
   },
@@ -284,6 +303,7 @@
     }
    ],
    "entities": [
+    "si",
     "si"
    ]
   },
@@ -323,6 +343,11 @@
     }
    ],
    "entities": [
+    "intracellular",
+    "reactive oxygen specie",
+    "ros",
+    "(+)-catechin",
+    "ros",
     "tgev"
    ]
   },
@@ -336,6 +361,7 @@
     }
    ],
    "entities": [
+    "chloroquine",
     "4-aminoquinoline"
    ]
   },
@@ -362,6 +388,7 @@
     }
    ],
    "entities": [
+    "(+)-catechin",
     "tgev"
    ]
   },
@@ -419,6 +446,10 @@
     }
    ],
    "entities": [
+    "EC",
+    "chloroquine",
+    "ha",
+    "ha2",
     "virus/ cell"
    ]
   },
@@ -432,6 +463,8 @@
     }
    ],
    "entities": [
+    "subcutaneous emphysema",
+    "hiatal hernia",
     "intrapulmonary cavity"
    ]
   },
@@ -445,6 +478,10 @@
     }
    ],
    "entities": [
+    "cell",
+    "sendai virus",
+    "hvj",
+    "ehrlich 's ascite tumor cell",
     "giant polynuclear cell"
    ]
   },
@@ -476,6 +513,7 @@
     }
    ],
    "entities": [
+    "patient",
     "patient"
    ]
   },
@@ -489,6 +527,17 @@
     }
    ],
    "entities": [
+    "child",
+    "LRTI",
+    "Salvador , Recife",
+    "Maceió",
+    "nasopharyngeal aspirate",
+    "low-density",
+    "rsv",
+    "adenovirus",
+    "rhinovirus ,",
+    "metapneumovirus",
+    "bocavirus",
     "coronavirus"
    ]
   },
@@ -507,6 +556,14 @@
     }
    ],
    "entities": [
+    "cell",
+    "Paramyxoviruses",
+    "Oncornavirus",
+    "Coronavirus",
+    "herpesvirus",
+    "Poxvirus",
+    "calcium",
+    "lysolecithin",
     "polyethylene glycol ( peg"
    ]
   },
@@ -520,6 +577,7 @@
     }
    ],
    "entities": [
+    "survivor",
     "patient"
    ]
   },
@@ -546,6 +604,7 @@
     }
    ],
    "entities": [
+    "cell",
     "cell"
    ]
   },
@@ -572,6 +631,13 @@
     }
    ],
    "entities": [
+    "a-fe",
+    "stage-iii",
+    "h m i",
+    "c 1 v k",
+    "n 1 v k",
+    "h m n",
+    "h m c",
     "h m v1"
    ]
   },
@@ -598,6 +664,7 @@
     }
    ],
    "entities": [
+    "host cell",
     "hiv-1"
    ]
   },
@@ -611,6 +678,7 @@
     }
    ],
    "entities": [
+    "rp2",
     "coronavirus oc43"
    ]
   },
@@ -629,6 +697,13 @@
     }
    ],
    "entities": [
+    "asfv dna",
+    "swine fever virus",
+    "csfv",
+    "porcine",
+    "prrsv",
+    "porcine",
+    "virus (",
     "pedv"
    ]
   },
@@ -642,6 +717,7 @@
     }
    ],
    "entities": [
+    "Hinsichtlich des grundlegenden Erholungsverhaltens",
     "a-fe wurden zwei entscheidende Ergebnisse"
    ]
   },
@@ -655,6 +731,7 @@
     }
    ],
    "entities": [
+    "film-array rp2",
     "ն93.8"
    ]
   },
@@ -694,6 +771,18 @@
     }
    ],
    "entities": [
+    "ha",
+    "chicken",
+    "mouse",
+    "rat",
+    "hamste~ erythrocyte",
+    "erythrocyte",
+    "human",
+    "horse",
+    "~heep",
+    "guinea pig",
+    "goose",
+    "duck~",
     "l-day-old"
    ]
   },
@@ -712,6 +801,9 @@
     }
    ],
    "entities": [
+    "blood",
+    "tissue sample",
+    "boar",
     "pig"
    ]
   },
@@ -725,6 +817,17 @@
     }
    ],
    "entities": [
+    "sowie mit substitutionellen Fremdatomen",
+    "a-fe",
+    "Stufe iii",
+    "Wanderung eine",
+    "Hantel",
+    "c 1 v k",
+    "n 1 v k",
+    "interstitiell",
+    "a-fe",
+    "Wanderungsenthalpie der",
+    "h m c",
     "h m v1"
    ]
   },
@@ -738,6 +841,9 @@
     }
    ],
    "entities": [
+    "ha",
+    "ha",
+    "ha",
     "hi test"
    ]
   },
@@ -751,6 +857,8 @@
     }
    ],
    "entities": [
+    "ms2 bacteriophage",
+    "agi-30",
     "biosampler ®"
    ]
   },
@@ -764,6 +872,8 @@
     }
    ],
    "entities": [
+    "Diese Ergebnisse stehen",
+    "Ûbereinstimmung mit dem sogenannten zwei-zwischengitteratom-modell",
     "a-fe ± ± eine Feststellung"
    ]
   },
@@ -777,6 +887,7 @@
     }
    ],
    "entities": [
+    "chicken",
     "Anhui province"
    ]
   },
@@ -816,6 +927,11 @@
     }
    ],
    "entities": [
+    "poxvirus",
+    "btb/kelch",
+    "ankyrin/f-box",
+    "cullin-3",
+    "cullin-1",
     "ubiquitin"
    ]
   },
@@ -829,6 +945,10 @@
     }
    ],
    "entities": [
+    "neuraminidase",
+    "na",
+    "micromolar",
+    "sars-cov",
     "mers-cov."
    ]
   },
@@ -842,6 +962,7 @@
     }
    ],
    "entities": [
+    "child",
     "covid-19"
    ]
   },
@@ -855,6 +976,8 @@
     }
    ],
    "entities": [
+    "carboxylate",
+    "r 1",
     "r 4"
    ]
   },
@@ -868,6 +991,7 @@
     }
    ],
    "entities": [
+    "anterior nasal",
     "exhaled carbon"
    ]
   },
@@ -886,6 +1010,8 @@
     }
    ],
    "entities": [
+    "perivascular",
+    "globoid cell",
     "crystalloid tubular aggregate"
    ]
   },
@@ -899,6 +1025,7 @@
     }
    ],
    "entities": [
+    "covid-19",
     "patient"
    ]
   },
@@ -925,6 +1052,9 @@
     }
    ],
    "entities": [
+    "loy/xcm",
+    "people",
+    "people",
     "covid-19"
    ]
   },
@@ -938,6 +1068,11 @@
     }
    ],
    "entities": [
+    "peripheral nerve",
+    "myelin sheath",
+    "myelin",
+    "nerve fibre",
+    "pale inclusion",
     "schwann cell"
    ]
   },
@@ -956,6 +1091,15 @@
     }
    ],
    "entities": [
+    "brain leukocyte",
+    "microglia",
+    "cd8",
+    "mouse",
+    "pd-1",
+    "pd-l1",
+    "ifn-γ",
+    "virus-specific cd8",
+    "tcell",
     "mcmv ie1 168 - 176"
    ]
   },
@@ -982,6 +1126,7 @@
     }
    ],
    "entities": [
+    "coronavirus",
     "sars-cov"
    ]
   },
@@ -995,6 +1140,8 @@
     }
    ],
    "entities": [
+    "gld",
+    "cat",
     "human"
    ]
   },
@@ -1039,6 +1186,7 @@
     }
    ],
    "entities": [
+    "feline",
     "cerebellar"
    ]
   },
@@ -1052,6 +1200,8 @@
     }
    ],
    "entities": [
+    "equine",
+    "f(ab ' ) 2",
     "sars-cov"
    ]
   },
@@ -1065,6 +1215,7 @@
     }
    ],
    "entities": [
+    "people",
     "Pernambuco"
    ]
   },
@@ -1109,6 +1260,11 @@
     }
    ],
    "entities": [
+    "b r /",
+    "astrovirus dog Gastroenteritis MAstV5",
+    "b s t r a c t mamastrovirus 5",
+    "astv",
+    "canine astrovirus",
     "dog"
    ]
   },
@@ -1145,6 +1301,7 @@
     }
    ],
    "entities": [
+    "rgm",
     "covid-19"
    ]
   },
@@ -1202,6 +1359,8 @@
     }
    ],
    "entities": [
+    "infant",
+    "hb",
     "hb"
    ]
   },
@@ -1215,6 +1374,11 @@
     }
    ],
    "entities": [
+    "dog",
+    "canine parvovirus",
+    "canine distemper virus",
+    "canine coronavirus",
+    "canine adenovirus",
     "canine rotavirus"
    ]
   },
@@ -1241,6 +1405,8 @@
     }
    ],
    "entities": [
+    "meat",
+    "fulni-ô",
     "meat"
    ]
   },
@@ -1272,6 +1438,8 @@
     }
    ],
    "entities": [
+    "(+)-catechin",
+    "st cell",
     "(+)-catechin"
    ]
   },
@@ -1285,6 +1453,7 @@
     }
    ],
    "entities": [
+    "embryo",
     "cell"
    ]
   },
@@ -1321,6 +1490,7 @@
     }
    ],
    "entities": [
+    "heart",
     "pulmonary"
    ]
   },
@@ -1334,6 +1504,12 @@
     }
    ],
    "entities": [
+    "±",
+    "low-temperature electron",
+    "±",
+    "a-fe",
+    "a-fe",
+    "Al",
     "Cu"
    ]
   },
@@ -1352,6 +1528,9 @@
     }
    ],
    "entities": [
+    "host cell factor",
+    "intravesicular",
+    "chloroquine",
     "lysosomotropic"
    ]
   },
@@ -1370,6 +1549,20 @@
     }
    ],
    "entities": [
+    "hybrid cell",
+    "es cell",
+    "thymocyte",
+    "somatic cell",
+    "embryo",
+    "thymocyte",
+    "pluripotential cellspecific",
+    "oct4",
+    "tsix",
+    "somatic cell",
+    "somatic nucleus",
+    "histone-tail",
+    "h3",
+    "h4",
     "h3 lysine 4"
    ]
   },
@@ -1383,6 +1576,7 @@
     }
    ],
    "entities": [
+    "Si",
     "Mn"
    ]
   },
@@ -1396,6 +1590,7 @@
     }
    ],
    "entities": [
+    "child",
     "LRTI"
    ]
   },
@@ -1409,6 +1604,10 @@
     }
    ],
    "entities": [
+    "embryonic germ ( eg ) cell",
+    "gonadal primordial germ cell",
+    "mouse e11.5",
+    "dna",
     "eg hybrid cell"
    ]
   },
@@ -1435,6 +1634,8 @@
     }
    ],
    "entities": [
+    "rsv",
+    "child",
     "LRTI"
    ]
   },
@@ -1471,6 +1672,8 @@
     }
    ],
    "entities": [
+    "formation-",
+    "type c i v k",
     "n i v k"
    ]
   },
@@ -1484,6 +1687,7 @@
     }
    ],
    "entities": [
+    "rsv",
     "father"
    ]
   },
@@ -1497,6 +1701,10 @@
     }
    ],
    "entities": [
+    "human",
+    "hiv-1",
+    "confi",
+    "gp41 transmembrane",
     "tm"
    ]
   },
@@ -1572,6 +1780,8 @@
     }
    ],
    "entities": [
+    "asfv p72",
+    "5′end",
     "asfv"
    ]
   },
@@ -1590,6 +1800,10 @@
     }
    ],
    "entities": [
+    "Wertvolle Kenntnisse u È ber",
+    "Auflo È",
+    "Bindung kleiner",
+    "Komplexe",
     "n i v k"
    ]
   },
@@ -1603,6 +1817,9 @@
     }
    ],
    "entities": [
+    "Y.",
+    "H.",
+    "Satoda",
     "K."
    ]
   },
@@ -1616,6 +1833,18 @@
     }
    ],
    "entities": [
+    "adenovirus",
+    "coronavirus 229e",
+    "coronavirus hku1",
+    "coronavirus nl63",
+    "coronavirus oc43",
+    "human metapneumovirus",
+    "human rhinovirus/enterovirus",
+    "parainfluenza virus 1",
+    "parainfluenza virus 2",
+    "parainfluenza virus 3",
+    "parainfluenza virus 4",
+    "bordetella pertussis",
     "mycoplasma pneumoniae"
    ]
   },
@@ -1642,6 +1871,7 @@
     }
    ],
    "entities": [
+    "covid-19",
     "patient"
    ]
   },
@@ -1678,6 +1908,7 @@
     }
    ],
    "entities": [
+    "poxvirus",
     "ubiquitin"
    ]
   },
@@ -1691,6 +1922,7 @@
     }
    ],
    "entities": [
+    "child",
     "COVID-19"
    ]
   },
@@ -1735,6 +1967,8 @@
     }
    ],
    "entities": [
+    "streptococcus pneumoniae",
+    "moraxella catarrhalis",
     "haemophilus influenzae"
    ]
   },
@@ -1771,6 +2005,9 @@
     }
    ],
    "entities": [
+    "death (pd)-1 receptor",
+    "cell",
+    "pd-l1",
     "t-lymphocyte"
    ]
   },
@@ -1784,6 +2021,7 @@
     }
    ],
    "entities": [
+    "coronavirus 2",
     "sars-cov-2"
    ]
   },
@@ -1797,6 +2035,7 @@
     }
    ],
    "entities": [
+    "child",
     "covid-19"
    ]
   },
@@ -1823,6 +2062,8 @@
     }
    ],
    "entities": [
+    "glial cell pd-l1",
+    "cd8",
     "brain"
    ]
   },
@@ -1854,6 +2095,8 @@
     }
    ],
    "entities": [
+    "globoid cell",
+    "gld",
     "cat"
    ]
   },
@@ -1880,6 +2123,9 @@
     }
    ],
    "entities": [
+    "xcm/loy",
+    "peripheral blood cell",
+    "progenitor cell",
     "cardiovascular"
    ]
   },
@@ -1893,6 +2139,9 @@
     }
    ],
    "entities": [
+    "murine cytomegalovirus",
+    "cd8 + t-cell",
+    "brain",
     "pd-1"
    ]
   },
@@ -1906,6 +2155,9 @@
     }
    ],
    "entities": [
+    "pelvic limb",
+    "pelvic limb",
+    "tremor",
     "thoracic limbs"
    ]
   },
@@ -1932,6 +2184,7 @@
     }
    ],
    "entities": [
+    "microglia",
     "pd-l1"
    ]
   },
@@ -1963,6 +2216,7 @@
     }
    ],
    "entities": [
+    "peripheral nervous",
     "myelin"
    ]
   },
@@ -1976,6 +2230,8 @@
     }
    ],
    "entities": [
+    "sars-cov-2",
+    "p=1.5x10",
     "interferon-induced"
    ]
   },
@@ -1989,6 +2245,8 @@
     }
    ],
    "entities": [
+    "red cell transfusion",
+    "hb",
     "hb"
    ]
   },
@@ -2002,6 +2260,7 @@
     }
    ],
    "entities": [
+    "virus-like particle",
     "human noroviruse"
    ]
   },
@@ -2051,6 +2310,8 @@
     }
    ],
    "entities": [
+    "platelet",
+    "indium-111",
     "chromium-51"
    ]
   },
@@ -2082,6 +2343,8 @@
     }
    ],
    "entities": [
+    "human",
+    "bird",
     "fish"
    ]
   },
@@ -2095,6 +2358,7 @@
     }
    ],
    "entities": [
+    "platelet",
     "re-infusion"
    ]
   },
@@ -2113,6 +2377,9 @@
     }
    ],
    "entities": [
+    "dog",
+    "home-cooked",
+    "female",
     "horse faece"
    ]
   },
@@ -2139,6 +2406,7 @@
     }
    ],
    "entities": [
+    "platelet",
     "p-selectin"
    ]
   },
@@ -2152,6 +2420,9 @@
     }
    ],
    "entities": [
+    "lung cancer",
+    "patient",
+    "lung nodule",
     "covid-19"
    ]
   },
@@ -2165,6 +2436,11 @@
     }
    ],
    "entities": [
+    "calicivirus",
+    "calicivirus capsid",
+    "virus-like particle",
+    "carbohydrate ligand",
+    "human",
     "human noroviruse"
    ]
   },
@@ -2191,6 +2467,8 @@
     }
    ],
    "entities": [
+    "participant",
+    "platelet",
     "blood"
    ]
   },
@@ -2204,6 +2482,7 @@
     }
    ],
    "entities": [
+    "hiv type 1",
     "hiv-1"
    ]
   },
@@ -2217,6 +2496,8 @@
     }
    ],
    "entities": [
+    "pulmonologist",
+    "thoracic",
     "thoracic"
    ]
   },
@@ -2243,6 +2524,7 @@
     }
    ],
    "entities": [
+    "gp120",
     "cd4"
    ]
   },
@@ -2256,6 +2538,8 @@
     }
    ],
    "entities": [
+    "hepatitis b virus",
+    "hbv",
     "α-1,2-mannosidases"
    ]
   },
@@ -2269,6 +2553,9 @@
     }
    ],
    "entities": [
+    "human",
+    "blood-derived platelet concentrate",
+    "PC",
     "udp-galactose"
    ]
   },
@@ -2282,6 +2569,7 @@
     }
    ],
    "entities": [
+    "hbsag",
     "hbeag"
    ]
   },
@@ -2295,6 +2583,7 @@
     }
    ],
    "entities": [
+    "cytoplasm",
     "hepatocyte"
    ]
   },
@@ -2308,6 +2597,7 @@
     }
    ],
    "entities": [
+    "coronaviruse",
     "Ebola virus"
    ]
   },
@@ -2326,6 +2616,8 @@
     }
    ],
    "entities": [
+    "infant",
+    "hb arm",
     "hb arm"
    ]
   },
@@ -2339,6 +2631,9 @@
     }
    ],
    "entities": [
+    "receptor intercellular adhesion",
+    "icam-1",
+    "cell surface",
     "intercellular"
    ]
   },
@@ -2365,6 +2660,7 @@
     }
    ],
    "entities": [
+    "human",
     "bat"
    ]
   },
@@ -2391,6 +2687,9 @@
     }
    ],
    "entities": [
+    "icam-1",
+    "membrane",
+    "cytoplasm",
     "lipid bilayer"
    ]
   },
@@ -2417,6 +2716,9 @@
     }
    ],
    "entities": [
+    "calicivirus",
+    "btcalv",
+    "btcalv/a10/usa/2009",
     "perimyotis"
    ]
   },
@@ -2430,6 +2732,7 @@
     }
    ],
    "entities": [
+    "sulfur",
     "oil"
    ]
   },
@@ -2443,6 +2746,9 @@
     }
    ],
    "entities": [
+    "canine enteric pathogen",
+    "coronavirus",
+    "parvovirus",
     "distemper"
    ]
   },
@@ -2456,6 +2762,8 @@
     }
    ],
    "entities": [
+    "coronavirus",
+    "sars-cov-2",
     "human"
    ]
   },
@@ -2474,6 +2782,8 @@
     }
    ],
    "entities": [
+    "Schlögl 's",
+    "Schlögl I",
     "Schlögl ii"
    ]
   },
@@ -2487,6 +2797,7 @@
     }
    ],
    "entities": [
+    "platelet",
     "gamma-survival"
    ]
   },
@@ -2505,6 +2816,7 @@
     }
    ],
    "entities": [
+    "env-pseudotyped virus",
     "vsvg"
    ]
   },
@@ -2523,6 +2835,7 @@
     }
    ],
    "entities": [
+    "lung cancer",
     "lung nodule"
    ]
   },
@@ -2541,6 +2854,10 @@
     }
    ],
    "entities": [
+    "immunoglobulin",
+    "ig ) domain protein",
+    "orf8",
+    "orf7a",
     "alpha-covs"
    ]
   },
@@ -2554,6 +2871,9 @@
     }
    ],
    "entities": [
+    "patient",
+    "lr apheresis platelet",
+    "platelet",
     "lr-prp platelet"
    ]
   },
@@ -2567,6 +2887,7 @@
     }
    ],
    "entities": [
+    "lung nodule",
     "lung nodule"
    ]
   },
@@ -2580,6 +2901,7 @@
     }
    ],
    "entities": [
+    "orf8",
     "sars-cov-2"
    ]
   },
@@ -2593,6 +2915,8 @@
     }
    ],
    "entities": [
+    "Schlögl II",
+    "Schlögl II",
     "[ 7 ]"
    ]
   },
@@ -2606,6 +2930,7 @@
     }
    ],
    "entities": [
+    "ig",
     "cov ig 27 domain protein"
    ]
   },
@@ -2619,6 +2944,8 @@
     }
    ],
    "entities": [
+    "blood platelet",
+    "gpiba",
     "surface"
    ]
   },
@@ -2632,6 +2959,8 @@
     }
    ],
    "entities": [
+    "covid-19",
+    "lung cancer",
     "lung nodule"
    ]
   },
@@ -2658,6 +2987,9 @@
     }
    ],
    "entities": [
+    "amb2 integrin",
+    "macrophage",
+    "platelet gpiba",
     "platelet"
    ]
   },
@@ -2684,6 +3016,15 @@
     }
    ],
    "entities": [
+    "covid-19",
+    "coronavirus",
+    "ggn",
+    "lr",
+    "lung-rads",
+    "lung CT",
+    "nsclc",
+    "non-small cell lung cancer",
+    "pca",
     "rtas"
    ]
   },
@@ -2697,6 +3038,11 @@
     }
    ],
    "entities": [
+    "b-glcnac",
+    "gpiba",
+    "galactose",
+    "platelet",
+    "macrophage",
     "platelet"
    ]
   },
@@ -2733,6 +3079,7 @@
     }
    ],
    "entities": [
+    "idp",
     "idp"
    ]
   },
@@ -2764,6 +3111,7 @@
     }
    ],
    "entities": [
+    "h1n1 swl",
     "UK"
    ]
   },
@@ -2777,6 +3125,11 @@
     }
    ],
    "entities": [
+    "sufentanil",
+    "midazolam",
+    "bw",
+    "bw",
+    "bw/h",
     "bw/h"
    ]
   },
@@ -2821,6 +3174,9 @@
     }
    ],
    "entities": [
+    "patient",
+    "t20",
+    "ap3",
     "anti-hiv-1"
    ]
   },
@@ -2834,6 +3190,7 @@
     }
    ],
    "entities": [
+    "gastro-intestinal tract",
     "oral"
    ]
   },
@@ -2847,6 +3204,7 @@
     }
    ],
    "entities": [
+    "ap3",
     "enfuvirtide"
    ]
   },
@@ -2870,6 +3228,8 @@
     }
    ],
    "entities": [
+    "rm-5061 8a",
+    "rat",
     "blood"
    ]
   },
@@ -2883,6 +3243,9 @@
     }
    ],
    "entities": [
+    "human immunodeficiency virus type 1",
+    "hiv-1",
+    "gp120 surface subunit",
     "gp41 transmembrane subunit"
    ]
   },
@@ -2914,6 +3277,8 @@
     }
    ],
    "entities": [
+    "gp120",
+    "cellular",
     "gp41"
    ]
   },
@@ -2932,6 +3297,9 @@
     }
    ],
    "entities": [
+    "intravenous",
+    "tiva",
+    "cardiovascular",
     "rabbit"
    ]
   },
@@ -2945,6 +3313,12 @@
     }
    ],
    "entities": [
+    "α-1,2-mannosidase",
+    "ad38 cell",
+    "nd10 cell",
+    "g2.2.15 cell",
+    "hbsag submit a",
+    "Manuscriptin",
     "cell line"
    ]
   },
@@ -2958,6 +3332,14 @@
     }
    ],
    "entities": [
+    "rat onfh",
+    "methylprednisolone",
+    "mpsl",
+    "imiquimod",
+    "imi",
+    "bone",
+    "femoral head",
+    "trap",
     "osteoclast"
    ]
   },
@@ -2971,6 +3353,8 @@
     }
    ],
    "entities": [
+    "hbv",
+    "α-mannosidase",
     "pparα"
    ]
   },
@@ -3015,6 +3399,10 @@
     }
    ],
    "entities": [
+    "Haldane 's",
+    "dna",
+    "membrane",
+    "lipid",
     "chromosome"
    ]
   },
@@ -3028,6 +3416,8 @@
     }
    ],
    "entities": [
+    "tissue",
+    "cellular",
     "sars-cov"
    ]
   },
@@ -3046,6 +3436,7 @@
     }
    ],
    "entities": [
+    "precellular",
     "cell"
    ]
   },
@@ -3064,6 +3455,9 @@
     }
    ],
    "entities": [
+    "hepatitis b virus",
+    "hbv",
+    "mannose oligosaccharide",
     "dc-sign"
    ]
   },
@@ -3077,6 +3471,7 @@
     }
    ],
    "entities": [
+    "airway",
     "child"
    ]
   },
@@ -3108,6 +3503,8 @@
     }
    ],
    "entities": [
+    "tissue",
+    "cellular",
     "sars-cov"
    ]
   },
@@ -3139,6 +3536,11 @@
     }
    ],
    "entities": [
+    "HCV",
+    "envelop",
+    "e1",
+    "e2",
+    "cell",
     "plasma membrane"
    ]
   },
@@ -3152,6 +3554,8 @@
     }
    ],
    "entities": [
+    "nucleolar",
+    "nolss",
     "nucleolus"
    ]
   },
@@ -3165,6 +3569,8 @@
     }
    ],
    "entities": [
+    "hepatitis b virus",
+    "α-1,2-mannosidase",
     "pparα"
    ]
   },
@@ -3178,6 +3584,7 @@
     }
    ],
    "entities": [
+    "hcv envelope protein",
     "endosome"
    ]
   },
@@ -3204,6 +3611,10 @@
     }
    ],
    "entities": [
+    "nucleolus",
+    "subnuclear",
+    "cell",
+    "nolss",
     "cellular"
    ]
   },
@@ -3217,6 +3628,10 @@
     }
    ],
    "entities": [
+    "chloroquine",
+    "ammonium chloride",
+    "nh 4 cl",
+    "lysosome",
     "intracellular"
    ]
   },
@@ -3230,6 +3645,8 @@
     }
    ],
    "entities": [
+    "→",
+    "−α",
     "cauchy-like"
    ]
   },
@@ -3261,6 +3678,8 @@
     }
    ],
    "entities": [
+    "Otomops",
+    "Chaerephon bat",
     "monkey"
    ]
   },
@@ -3305,6 +3724,7 @@
     }
    ],
    "entities": [
+    "Pelvic",
     "fpmrs"
    ]
   },
@@ -3336,6 +3756,10 @@
     }
    ],
    "entities": [
+    "la ( chloroquine",
+    "nh 4 cl",
+    "hcv pseudoparticle",
+    "hcvpp",
     "liver cell"
    ]
   },
@@ -3367,6 +3791,7 @@
     }
    ],
    "entities": [
+    "orf1a",
     "gav"
    ]
   },
@@ -3380,6 +3805,9 @@
     }
    ],
    "entities": [
+    "renin-angiotensin system",
+    "ras",
+    "angiotensin-converting enzyme (ace)/ angiotensin ii",
     "ang ii)/ang ii receptor type 1"
    ]
   },
@@ -3393,6 +3821,16 @@
     }
    ],
    "entities": [
+    "interleukin [ il ] -2",
+    "il-12",
+    "th 2",
+    "il-4",
+    "il-5",
+    "il-13",
+    "t reg",
+    "il-10",
+    "serum sample",
+    "rsv",
     "child"
    ]
   },
@@ -3442,6 +3880,7 @@
     }
    ],
    "entities": [
+    "H1N1",
     "u m m"
    ]
   },
@@ -3455,6 +3894,7 @@
     }
    ],
    "entities": [
+    "orf3",
     "gav orf4"
    ]
   },
@@ -3468,6 +3908,7 @@
     }
    ],
    "entities": [
+    "lung",
     "lung"
    ]
   },
@@ -3527,6 +3968,15 @@
     }
    ],
    "entities": [
+    "il-13",
+    "il-12",
+    "ifn-gamma",
+    "il-5",
+    "rsv-group",
+    "ifn-gamma",
+    "il-2",
+    "il-5",
+    "5.6fold",
     "il-10"
    ]
   },
@@ -3545,6 +3995,9 @@
     }
    ],
    "entities": [
+    "ace",
+    "ang ii",
+    "patient",
     "ras"
    ]
   },
@@ -3563,6 +4016,7 @@
     }
    ],
    "entities": [
+    "Pasteur 's germ",
     "human"
    ]
   },
@@ -3576,6 +4030,8 @@
     }
    ],
    "entities": [
+    "msc",
+    "tissue",
     "blood vessel"
    ]
   },
@@ -3602,6 +4058,7 @@
     }
    ],
    "entities": [
+    "cell",
     "tissue"
    ]
   },
@@ -3615,6 +4072,12 @@
     }
    ],
    "entities": [
+    "2 - 3",
+    "ifn-gamma",
+    "il-13",
+    "il-10",
+    "rsv-group",
+    "ifngamma",
     "il-2"
    ]
   },
@@ -3641,6 +4104,12 @@
     }
    ],
    "entities": [
+    "ace",
+    "ace2",
+    "ang",
+    "bradykinin",
+    "apelin",
+    "lung",
     "ang ii receptor type 2"
    ]
   },
@@ -3664,6 +4133,7 @@
     }
    ],
    "entities": [
+    "human",
     "cancer"
    ]
   },
@@ -3703,6 +4173,7 @@
     }
    ],
    "entities": [
+    "msc",
     "pulmonary"
    ]
   },
@@ -3716,6 +4187,11 @@
     }
    ],
    "entities": [
+    "faeces sample",
+    "herd",
+    "rotavirus",
+    "coronavirus",
+    "cryptosporidium",
     "f5 + escherichia coli"
    ]
   },
@@ -3773,6 +4249,7 @@
     }
    ],
    "entities": [
+    "cell",
     "iav"
    ]
   },
@@ -3786,6 +4263,7 @@
     }
    ],
    "entities": [
+    "tnf receptor",
     "toll-like receptor-interleukin-1 receptor"
    ]
   },
@@ -3830,6 +4308,7 @@
     }
    ],
    "entities": [
+    "human covs",
     "hcovs"
    ]
   },
@@ -3843,6 +4322,9 @@
     }
    ],
    "entities": [
+    "1±7",
+    "8±14",
+    "15±21",
     "22±30 d"
    ]
   },
@@ -3887,6 +4369,8 @@
     }
    ],
    "entities": [
+    "hepg2 cell",
+    "hbv viral envelope",
     "α-1,2-mannosidases"
    ]
   },
@@ -3926,6 +4410,8 @@
     }
    ],
    "entities": [
+    "man1c1",
+    "pparα",
     "mk886"
    ]
   },
@@ -3939,6 +4425,7 @@
     }
    ],
    "entities": [
+    "tracheal",
     "airway"
    ]
   },
@@ -3952,6 +4439,7 @@
     }
    ],
    "entities": [
+    "coronavirus",
     "sars-cov"
    ]
   },
@@ -3965,6 +4453,8 @@
     }
    ],
    "entities": [
+    "gp41 nhr",
+    "n36 peptide",
     "gp41"
    ]
   },
@@ -4019,6 +4509,7 @@
     }
    ],
    "entities": [
+    "hbv",
     "α-mannosidase i"
    ]
   },
@@ -4050,6 +4541,8 @@
     }
    ],
    "entities": [
+    "hbv envelope",
+    "α-mannosidase i",
     "pparα"
    ]
   },
@@ -4068,6 +4561,8 @@
     }
    ],
    "entities": [
+    "tissue",
+    "sars-cov",
     "human coronaviruse"
    ]
   },
@@ -4094,6 +4589,7 @@
     }
    ],
    "entities": [
+    "α-mannosidase -PRON-",
     "hbv"
    ]
   },
@@ -4112,6 +4608,8 @@
     }
    ],
    "entities": [
+    "orf3h",
+    "sars-cov",
     "viroporin"
    ]
   },
@@ -4125,6 +4623,7 @@
     }
    ],
    "entities": [
+    "bat",
     "polyomaviruse"
    ]
   },
@@ -4151,6 +4650,8 @@
     }
    ],
    "entities": [
+    "yhv",
+    "penaeus monodon",
     "gav"
    ]
   },
@@ -4177,6 +4678,8 @@
     }
    ],
    "entities": [
+    "hcv",
+    "lysosomal",
     "hcv"
    ]
   },
@@ -4208,6 +4711,8 @@
     }
    ],
    "entities": [
+    "fpmrs",
+    "pessary",
     "urinary tract"
    ]
   },
@@ -4221,6 +4726,11 @@
     }
    ],
    "entities": [
+    "orf1a",
+    "12,219",
+    "3c-like protease",
+    "c/h catalytic dyad",
+    "␣",
     "␤"
    ]
   },
@@ -4257,6 +4767,7 @@
     }
    ],
    "entities": [
+    "ribose-2 -o-methyl transferase",
     "zn 2"
    ]
   },
@@ -4301,6 +4812,8 @@
     }
    ],
    "entities": [
+    "orf2",
+    "orf3",
     "gav"
    ]
   },
@@ -4314,6 +4827,9 @@
     }
    ],
    "entities": [
+    "pulmonary",
+    "mesenchymal stem/stromal cell",
+    "msc",
     "cell"
    ]
   },
@@ -4327,6 +4843,7 @@
     }
    ],
    "entities": [
+    "ras",
     "patient"
    ]
   },
@@ -4353,6 +4870,8 @@
     }
    ],
    "entities": [
+    "msc",
+    "body",
     "tissue"
    ]
   },
@@ -4366,6 +4885,7 @@
     }
    ],
    "entities": [
+    "coronavirus",
     "mers-cov s1 igg"
    ]
   },
@@ -4384,6 +4904,7 @@
     }
    ],
    "entities": [
+    "hcovs",
     "bat"
    ]
   },
@@ -4415,6 +4936,11 @@
     }
    ],
    "entities": [
+    "→ x",
+    "pdt",
+    "node",
+    "node",
+    "→ y",
     "rdt"
    ]
   },
@@ -4464,6 +4990,9 @@
     }
    ],
    "entities": [
+    "platelet",
+    "surface gpiba",
+    "surface phosphatidyl serine (",
     "surface p-selectin"
    ]
   },
@@ -4477,6 +5006,10 @@
     }
    ],
    "entities": [
+    "reactive oxygen specie",
+    "ros",
+    "osteoclast",
+    "patient",
     "rat onfh"
    ]
   },
@@ -4495,6 +5028,13 @@
     }
    ],
    "entities": [
+    "mk886",
+    "pparα",
+    "gw9662",
+    "PPARγ",
+    "hbv",
+    "α-1,2-mannosidase",
+    "pparα",
     "PPARγ"
    ]
   },
@@ -4508,6 +5048,10 @@
     }
    ],
    "entities": [
+    "platelet",
+    "surface",
+    "gpiba",
+    "p-selectin",
     "platelet"
    ]
   },
@@ -4534,6 +5078,7 @@
     }
    ],
    "entities": [
+    "gpiibiiia",
     "platelet surface"
    ]
   },
@@ -4591,6 +5136,7 @@
     }
    ],
    "entities": [
+    "swine-lineage",
     "h1n1 swl"
    ]
   },
@@ -4609,6 +5155,9 @@
     }
    ],
    "entities": [
+    "5-nitrothiazole derivative",
+    "rm-5038 2a",
+    "rm-4848 2b",
     "5-chloro derivative"
    ]
   },
@@ -4627,6 +5176,8 @@
     }
    ],
    "entities": [
+    "node",
+    "node",
     "prl 118"
    ]
   },
@@ -4645,6 +5196,7 @@
     }
    ],
    "entities": [
+    "no",
     "no"
    ]
   },
@@ -4658,6 +5210,7 @@
     }
    ],
    "entities": [
+    "human",
     "tissue"
    ]
   },
@@ -4671,6 +5224,8 @@
     }
    ],
    "entities": [
+    "patient",
+    "gastric cancer",
     "pre-malignant lesion"
    ]
   },
@@ -4684,6 +5239,7 @@
     }
    ],
    "entities": [
+    "coronavirus",
     "16,7"
    ]
   },
@@ -4697,6 +5253,7 @@
     }
    ],
    "entities": [
+    "microtubule cytoskeleton",
     "vaccinia virus"
    ]
   },
@@ -4710,6 +5267,7 @@
     }
    ],
    "entities": [
+    "sma",
     "plasmodium falciparum"
    ]
   },
@@ -4749,6 +5307,8 @@
     }
    ],
    "entities": [
+    "microtubule cytoskeleton",
+    "microtubule-associated protein",
     "map"
    ]
   },
@@ -4762,6 +5322,7 @@
     }
    ],
    "entities": [
+    "plasma",
     "Ibadan"
    ]
   },
@@ -4775,6 +5336,9 @@
     }
    ],
    "entities": [
+    "vaccinia",
+    "a10l",
+    "l4r",
     "microtubule"
    ]
   },
@@ -4788,6 +5352,10 @@
     }
    ],
    "entities": [
+    "plasma proteome-pattern",
+    "child",
+    "sma",
+    "um",
     "child"
    ]
   },
@@ -4814,6 +5382,7 @@
     }
    ],
    "entities": [
+    "patient",
     "ev-d68"
    ]
   },
@@ -4827,6 +5396,10 @@
     }
    ],
    "entities": [
+    "sars-cov-2 m pro",
+    "orf1ab",
+    "mn908947.3",
+    "escherichia coli",
     "e. coli"
    ]
   },
@@ -4840,6 +5413,7 @@
     }
    ],
    "entities": [
+    "peroxynitrite",
     "tissue"
    ]
   },
@@ -4853,6 +5427,8 @@
     }
    ],
    "entities": [
+    "vaccinia",
+    "microtubule",
     "centrosome"
    ]
   },
@@ -4905,6 +5481,7 @@
     }
    ],
    "entities": [
+    "clone",
     "sars-cov m"
    ]
   },
@@ -4918,6 +5495,7 @@
     }
    ],
    "entities": [
+    "vaccine",
     "human"
    ]
   },
@@ -4931,6 +5509,7 @@
     }
    ],
    "entities": [
+    "person",
     "child"
    ]
   },
@@ -4944,6 +5523,9 @@
     }
    ],
    "entities": [
+    "fiv",
+    "fcov",
+    "ehrlichia",
     "neospora caninum"
    ]
   },
@@ -4957,6 +5539,7 @@
     }
    ],
    "entities": [
+    "child",
     "108/5065"
    ]
   },
@@ -4996,6 +5579,7 @@
     }
    ],
    "entities": [
+    "child",
     "child"
    ]
   },
@@ -5027,6 +5611,7 @@
     }
    ],
    "entities": [
+    "patient",
     "hcw contact"
    ]
   },
@@ -5040,6 +5625,7 @@
     }
    ],
    "entities": [
+    "immune cell",
     "antigen"
    ]
   },
@@ -5058,6 +5644,17 @@
     }
    ],
    "entities": [
+    "mib",
+    "sodium malonate",
+    "imidazole",
+    "boric acid",
+    "molar ratio 2:3:3",
+    "polyethylene glycol",
+    "peg",
+    "d4",
+    "dl-malic acid",
+    "mes",
+    "molar ratio 1:2:2",
     "m potassium sodium tartrate tetrahydrate"
    ]
   },
@@ -5071,6 +5668,7 @@
     }
    ],
    "entities": [
+    "mother liquor",
     "glycerol"
    ]
   },
@@ -5084,6 +5682,11 @@
     }
    ],
    "entities": [
+    "urine",
+    "prostate",
+    "bph patient",
+    "wm",
+    "thh",
     "tcm"
    ]
   },
@@ -5097,6 +5700,7 @@
     }
    ],
    "entities": [
+    "13b",
     "dmso"
    ]
   },
@@ -5120,6 +5724,15 @@
     }
    ],
    "entities": [
+    "matieá",
+    "feâ cale",
+    "reâ colteâ",
+    "geâ",
+    "teâ reâ aliseâ e",
+    "deâ celer",
+    "preâ",
+    "rotavirus",
+    "Cryptosporidium",
     "escherichia coli f5"
    ]
   },
@@ -5177,6 +5790,9 @@
     }
    ],
    "entities": [
+    "non-cancer sample",
+    "cancer sample",
+    "pre-malignant lesion",
     "intestinal metaplasia"
    ]
   },
@@ -5203,6 +5819,8 @@
     }
    ],
    "entities": [
+    "gastric fluid sample",
+    "gastric cancer",
     "benign gastritide patient"
    ]
   },
@@ -5216,6 +5834,20 @@
     }
    ],
    "entities": [
+    "secretion",
+    "interleukin-1 ␤",
+    "il-1 ␤",
+    "tumor necrosis factor- ␣",
+    "tnf- ␣",
+    "macrophage",
+    "protein-1 ␣",
+    "mip-1 ␣",
+    "macrophage",
+    "protein-1 ␤",
+    "mip-1 ␤",
+    "rantes",
+    "t cell",
+    "human peripheral blood mononuclear cell",
     "pbmc"
    ]
   },
@@ -5229,6 +5861,7 @@
     }
    ],
    "entities": [
+    "nitric oxide",
     "no"
    ]
   },
@@ -5242,6 +5875,10 @@
     }
    ],
    "entities": [
+    "leâ",
+    "1±7",
+    "8±14",
+    "15±21",
     "22±30 jour"
    ]
   },
@@ -5255,6 +5892,8 @@
     }
    ],
    "entities": [
+    "no",
+    "®",
     "no"
    ]
   },
@@ -5268,6 +5907,7 @@
     }
    ],
    "entities": [
+    "cancer sample",
     "non-cancer sample"
    ]
   },
@@ -5286,6 +5926,10 @@
     }
    ],
    "entities": [
+    "reovirus type 1",
+    "cell",
+    "rat cell line frtl-5",
+    "thyroid cell mhc class ii antigen",
     "ox-6 anti-rtl"
    ]
   },
@@ -5299,6 +5943,8 @@
     }
    ],
    "entities": [
+    "rence signi ® cative",
+    "deâ",
     "rotavirus parmi le"
    ]
   },
@@ -5312,6 +5958,8 @@
     }
    ],
    "entities": [
+    "no",
+    "oxygen",
     "superoxide"
    ]
   },
@@ -5330,6 +5978,8 @@
     }
    ],
    "entities": [
+    "vaccinia",
+    "centrosome",
     "centrosomal microtubule nucleation ef ®"
    ]
   },
@@ -5343,6 +5993,11 @@
     }
    ],
    "entities": [
+    "inos",
+    "no",
+    "reactive nitrogen oxide",
+    "peroxynitrite",
+    "no",
     "superoxide"
    ]
   },
@@ -5369,6 +6024,9 @@
     }
    ],
    "entities": [
+    "aav8",
+    "mouse liver",
+    "dna",
     "cellular"
    ]
   },
@@ -5382,6 +6040,7 @@
     }
    ],
    "entities": [
+    "patient",
     "child"
    ]
   },
@@ -5413,6 +6072,8 @@
     }
    ],
    "entities": [
+    "bamhi",
+    "xhoi",
     "pgex-6p-1"
    ]
   },
@@ -5426,6 +6087,8 @@
     }
    ],
    "entities": [
+    "no",
+    "non-speci ® c",
     "no"
    ]
   },
@@ -5457,6 +6120,10 @@
     }
    ],
    "entities": [
+    "endosomal cysteine protease",
+    "cathepsin b",
+    "L.",
+    "aav2 capsid",
     "aav5"
    ]
   },
@@ -5470,6 +6137,10 @@
     }
    ],
    "entities": [
+    "sars-cov-2 m",
+    "m pro cleavage-site",
+    "savlq↓sgfrk",
+    "nsp4",
     "nsp5"
    ]
   },
@@ -5483,6 +6154,7 @@
     }
    ],
    "entities": [
+    "iel",
     "zone"
    ]
   },
@@ -5509,6 +6181,8 @@
     }
    ],
    "entities": [
+    "aav capsid",
+    "nuclear",
     "aav8"
    ]
   },
@@ -5527,6 +6201,7 @@
     }
    ],
    "entities": [
+    "patient",
     "hcw"
    ]
   },
@@ -5540,6 +6215,8 @@
     }
    ],
    "entities": [
+    "b-cell",
+    "sncd",
     "immunoglobulin"
    ]
   },
@@ -5553,6 +6230,7 @@
     }
    ],
    "entities": [
+    "pgex-6p-1",
     "GE"
    ]
   },
@@ -5566,6 +6244,7 @@
     }
    ],
    "entities": [
+    "no",
     "mouse"
    ]
   },
@@ -5602,6 +6281,8 @@
     }
    ],
    "entities": [
+    "no",
+    "no synthase",
     "inos"
    ]
   },
@@ -5615,6 +6296,8 @@
     }
    ],
    "entities": [
+    "mhc class ii antigen",
+    "thyroid antigen",
     "thyroid"
    ]
   },
@@ -5628,6 +6311,7 @@
     }
    ],
    "entities": [
+    "pepsinogen c",
     "pepsin a"
    ]
   },
@@ -5641,6 +6325,10 @@
     }
    ],
    "entities": [
+    "deâ tecteâ es",
+    "veaux infecteâ s avec",
+    "8±14",
+    "15±21",
     "22±30 jour respectivement"
    ]
   },
@@ -5654,6 +6342,8 @@
     }
    ],
    "entities": [
+    "3c-like proteinase",
+    "coronavirus",
     "ibv"
    ]
   },
@@ -5672,6 +6362,8 @@
     }
    ],
    "entities": [
+    "ib viral",
+    "avian respiratory pathogen",
     "ibv-s2-rt-lamp"
    ]
   },
@@ -5685,6 +6377,8 @@
     }
    ],
    "entities": [
+    "dipteran-borne",
+    "rvfv",
     "culex mosquito"
    ]
   },
@@ -5698,6 +6392,11 @@
     }
    ],
    "entities": [
+    "vcam-1",
+    "icam-1",
+    "e-selectin",
+    "il-8",
+    "fractalkine",
     "amantadine"
    ]
   },
@@ -5737,6 +6436,7 @@
     }
    ],
    "entities": [
+    "v17",
     "3c-like proteinase"
    ]
   },
@@ -5781,6 +6481,7 @@
     }
    ],
    "entities": [
+    "sftsv",
     "Korea [ 39 ] [ 40 ] [ 41"
    ]
   },
@@ -5799,6 +6500,12 @@
     }
    ],
    "entities": [
+    "bovine",
+    "bvdv",
+    "lymphocyte",
+    "leukocyte",
+    "bvdv",
+    "t lymphocyte",
     "treg"
    ]
   },
@@ -5812,6 +6519,8 @@
     }
    ],
    "entities": [
+    "ribosomal",
+    "orf1b",
     "coronaviruse"
    ]
   },
@@ -5843,6 +6552,7 @@
     }
    ],
    "entities": [
+    "sars-cov-2",
     "patient"
    ]
   },
@@ -5882,6 +6592,8 @@
     }
    ],
    "entities": [
+    "tick-borne phleboviruse",
+    "sftsv",
     "hrtv"
    ]
   },
@@ -5895,6 +6607,7 @@
     }
    ],
    "entities": [
+    "sars-cov",
     "u _ UUA _"
    ]
   },
@@ -5908,6 +6621,8 @@
     }
    ],
    "entities": [
+    "lv",
+    "sd-1",
     "bvdv-free cell"
    ]
   },
@@ -5921,6 +6636,8 @@
     }
    ],
    "entities": [
+    "pulmonary",
+    "g-csf",
     "doxorubicin"
    ]
   },
@@ -5939,6 +6656,7 @@
     }
    ],
    "entities": [
+    "ifnresponsive",
     "ifnγ"
    ]
   },
@@ -5975,6 +6693,7 @@
     }
    ],
    "entities": [
+    "tracheo-bronchial lymph node",
     "spleen"
    ]
   },
@@ -6014,6 +6733,9 @@
     }
    ],
    "entities": [
+    "phleboviruse",
+    "sftv",
+    "phleboviruse",
     "adav"
    ]
   },
@@ -6027,6 +6749,7 @@
     }
    ],
    "entities": [
+    "lockdown",
     "lockdown"
    ]
   },
@@ -6045,6 +6768,7 @@
     }
    ],
    "entities": [
+    "cd25",
     "host cell"
    ]
   },
@@ -6102,6 +6826,10 @@
     }
    ],
    "entities": [
+    "volunteer",
+    "c-19 Covid",
+    "covid-19",
+    "covid-19",
     "sars-cov-2"
    ]
   },
@@ -6115,6 +6843,7 @@
     }
    ],
    "entities": [
+    "cell",
     "lung"
    ]
   },
@@ -6159,6 +6888,10 @@
     }
    ],
    "entities": [
+    "tracheal epithelial cell",
+    "4-week-old rat",
+    "epithelial cell",
+    "trachea",
     "bronchiolar epithelium"
    ]
   },
@@ -6185,6 +6918,8 @@
     }
    ],
    "entities": [
+    "child",
+    "s. pneumoniae",
     "aom"
    ]
   },
@@ -6198,6 +6933,7 @@
     }
    ],
    "entities": [
+    "pig",
     "sus scrofa"
    ]
   },
@@ -6216,6 +6952,8 @@
     }
    ],
    "entities": [
+    "patient",
+    "aom",
     "patient"
    ]
   },
@@ -6229,6 +6967,7 @@
     }
    ],
    "entities": [
+    "macrophage",
     "chitinase 1"
    ]
   },
@@ -6242,6 +6981,7 @@
     }
    ],
    "entities": [
+    "woman",
     "milk"
    ]
   },
@@ -6255,6 +6995,7 @@
     }
    ],
    "entities": [
+    "blood",
     "tissue"
    ]
   },
@@ -6268,6 +7009,7 @@
     }
    ],
    "entities": [
+    "coronavirus",
     "sars-cov"
    ]
   },
@@ -6281,6 +7023,7 @@
     }
    ],
    "entities": [
+    "body",
     "cns"
    ]
   },
@@ -6299,6 +7042,8 @@
     }
    ],
    "entities": [
+    "seed grain",
+    "flour",
     "bread"
    ]
   },
@@ -6317,6 +7062,7 @@
     }
    ],
    "entities": [
+    "icterohaemorrhagiae",
     "hardjo ( n = 1"
    ]
   },
@@ -6330,6 +7076,8 @@
     }
    ],
    "entities": [
+    "human metapneumovirus",
+    "hmpv",
     "child"
    ]
   },
@@ -6356,6 +7104,10 @@
     }
    ],
    "entities": [
+    "sars-cov-2",
+    "stool",
+    "patient",
+    "coronavirus disease 2019",
     "covid-19"
    ]
   },
@@ -6369,6 +7121,9 @@
     }
    ],
    "entities": [
+    "ibv",
+    "ibv",
+    "sample",
     "ibv"
    ]
   },
@@ -6387,6 +7142,7 @@
     }
    ],
    "entities": [
+    "phleboviruse",
     "human"
    ]
   },
@@ -6400,6 +7156,11 @@
     }
    ],
    "entities": [
+    "tregs",
+    "cd25",
+    "foxp3",
+    "ctla4",
+    "beef calf",
     "lv"
    ]
   },
@@ -6431,6 +7192,7 @@
     }
    ],
    "entities": [
+    "eye",
     "covid-19"
    ]
   },
@@ -6444,6 +7206,7 @@
     }
    ],
    "entities": [
+    "patient",
     "covid-19"
    ]
   },
@@ -6480,6 +7243,7 @@
     }
    ],
    "entities": [
+    "Bhanja virus",
     "tick-borne phlebovirus"
    ]
   },
@@ -6519,6 +7283,9 @@
     }
    ],
    "entities": [
+    "human",
+    "t cell",
+    "trm",
     "human leucocyte antigen"
    ]
   },
@@ -6537,6 +7304,7 @@
     }
    ],
    "entities": [
+    "radix glycyrrhizae",
     "cell"
    ]
   },
@@ -6555,6 +7323,7 @@
     }
    ],
    "entities": [
+    "lockdown",
     "people"
    ]
   },
@@ -6581,6 +7350,9 @@
     }
    ],
    "entities": [
+    "malignant neoplasm",
+    "malignant neoplasm",
+    "lymphatic",
     "hematopoietic tissue"
    ]
   },
@@ -6594,6 +7366,7 @@
     }
    ],
    "entities": [
+    "epithelial cell",
     "lung compartment"
    ]
   },
@@ -6607,6 +7380,7 @@
     }
    ],
    "entities": [
+    "patient",
     "low-dose"
    ]
   },
@@ -6620,6 +7394,7 @@
     }
    ],
    "entities": [
+    "EGDT",
     "patient"
    ]
   },
@@ -6633,6 +7408,7 @@
     }
    ],
    "entities": [
+    "child",
     "aom"
    ]
   },
@@ -6646,6 +7422,8 @@
     }
    ],
    "entities": [
+    "porcine parvovirus",
+    "leptospira interrogan",
     "swine"
    ]
   },
@@ -6659,6 +7437,7 @@
     }
    ],
    "entities": [
+    "Ice",
     "human"
    ]
   },
@@ -6762,6 +7541,7 @@
     }
    ],
    "entities": [
+    "pretransmembrane",
     "sars-cov plaque"
    ]
   },
@@ -6788,6 +7568,7 @@
     }
    ],
    "entities": [
+    "cephalosporin",
     "acyclovir"
    ]
   },
@@ -6806,6 +7587,9 @@
     }
    ],
    "entities": [
+    "swine",
+    "pseudorabie virus",
+    "prrs virus",
     "pig"
    ]
   },
@@ -6819,6 +7603,8 @@
     }
    ],
    "entities": [
+    "ifn-a",
+    "patient",
     "patient"
    ]
   },
@@ -6881,6 +7667,7 @@
     }
    ],
    "entities": [
+    "nuclear",
     "pollen"
    ]
   },
@@ -6907,6 +7694,7 @@
     }
    ],
    "entities": [
+    "exon",
     "exon"
    ]
   },
@@ -6920,6 +7708,11 @@
     }
    ],
    "entities": [
+    "t-cell",
+    "cd8 t-cell",
+    "patient",
+    "cd4",
+    "cd8",
     "patient"
    ]
   },
@@ -6933,6 +7726,7 @@
     }
    ],
    "entities": [
+    "mdck plaque",
     "a549 cell"
    ]
   },
@@ -6998,6 +7792,8 @@
     }
    ],
    "entities": [
+    "type i interferon",
+    "ifn",
     "phleboviruse"
    ]
   },
@@ -7047,6 +7843,8 @@
     }
    ],
    "entities": [
+    "aqueous extract",
+    "leaf",
     "toona sinensis Roem"
    ]
   },
@@ -7065,6 +7863,7 @@
     }
    ],
    "entities": [
+    "u ( 1 )",
     "b−l"
    ]
   },
@@ -7091,6 +7890,8 @@
     }
    ],
    "entities": [
+    "gb",
+    "herpesviruse",
     "cellular membrane"
    ]
   },
@@ -7104,6 +7905,7 @@
     }
    ],
    "entities": [
+    "human",
     "phleboviruse"
    ]
   },
@@ -7122,6 +7924,7 @@
     }
    ],
    "entities": [
+    "kidney sample",
     "pig"
    ]
   },
@@ -7148,6 +7951,9 @@
     }
    ],
    "entities": [
+    "blood",
+    "blood",
+    "liver",
     "patient"
    ]
   },
@@ -7179,6 +7985,8 @@
     }
    ],
    "entities": [
+    "sars-cov",
+    "murine hepatitis virus",
     "mhv"
    ]
   },
@@ -7197,6 +8005,11 @@
     }
    ],
    "entities": [
+    "angiotensin-converting enzyme-2",
+    "ace-2",
+    "cell membrane",
+    "host cell",
+    "hc",
     "sars-cov-2"
    ]
   },
@@ -7249,6 +8062,7 @@
     }
    ],
    "entities": [
+    "ibv",
     "California"
    ]
   },
@@ -7262,6 +8076,10 @@
     }
    ],
    "entities": [
+    "adamantane derivative",
+    "bananin",
+    "amantadine",
+    "atpase",
     "helicase"
    ]
   },
@@ -7293,6 +8111,7 @@
     }
    ],
    "entities": [
+    "il-8",
     "neutrophil"
    ]
   },
@@ -7332,6 +8151,10 @@
     }
    ],
    "entities": [
+    "amantadine",
+    "scv helicase",
+    "muscle",
+    "scv",
     "cell"
    ]
   },
@@ -7345,6 +8168,8 @@
     }
    ],
    "entities": [
+    "il-8",
+    "neutrophil",
     "nasal"
    ]
   },
@@ -7358,6 +8183,7 @@
     }
    ],
    "entities": [
+    "sars-cov-2",
     "rscu"
    ]
   },
@@ -7451,6 +8277,10 @@
     }
    ],
    "entities": [
+    "bananin",
+    "atpase",
+    "helicase",
+    "scv helicase",
     "A.J.K."
    ]
   },
@@ -7508,6 +8338,8 @@
     }
    ],
    "entities": [
+    "bananin",
+    "scv",
     "hku.hk"
    ]
   },
@@ -7521,6 +8353,7 @@
     }
    ],
    "entities": [
+    "sdd",
     "patient"
    ]
   },
@@ -7534,6 +8367,11 @@
     }
    ],
    "entities": [
+    "jhm",
+    "mouse hepatitis virus",
+    "jhmv",
+    "glial cell",
+    "mouse",
     "neuron"
    ]
   },
@@ -7560,6 +8398,8 @@
     }
    ],
    "entities": [
+    "dexmedetomidine",
+    "renal",
     "patient"
    ]
   },
@@ -7591,6 +8431,9 @@
     }
    ],
    "entities": [
+    "chick embryo",
+    "cell line",
+    "mdck",
     "vero"
    ]
   },
@@ -7614,6 +8457,7 @@
     }
    ],
    "entities": [
+    "dna",
     "saliva"
    ]
   },
@@ -7632,6 +8476,7 @@
     }
    ],
    "entities": [
+    "coronavirus 3cl protease with ic 50 value range",
     "lm."
    ]
   },
@@ -7645,6 +8490,8 @@
     }
    ],
    "entities": [
+    "co-infection",
+    "c. perfringens",
     "c. suis"
    ]
   },
@@ -7699,6 +8546,7 @@
     }
    ],
    "entities": [
+    "non-neoforman",
     "human"
    ]
   },
@@ -7717,6 +8565,10 @@
     }
    ],
    "entities": [
+    "prohnp1",
+    "e. coli",
+    "hnp1",
+    "prohnp1 ' ' )",
     "prohnp1"
    ]
   },
@@ -7730,6 +8582,11 @@
     }
    ],
    "entities": [
+    "J. ,",
+    "M.",
+    "Schoppmeyer",
+    "K.",
+    "P.",
     "tissue"
    ]
   },
@@ -7748,6 +8605,9 @@
     }
    ],
    "entities": [
+    "patient",
+    "propofol",
+    "forehead",
     "patient"
    ]
   },
@@ -7774,6 +8634,7 @@
     }
    ],
    "entities": [
+    "gastrointestinal",
     "skin"
    ]
   },
@@ -7787,6 +8648,8 @@
     }
    ],
    "entities": [
+    "glial culture",
+    "mouse",
     "ifn-β"
    ]
   },
@@ -7805,6 +8668,9 @@
     }
    ],
    "entities": [
+    "mayer",
+    "Paulshock",
+    "M.",
     "E.C."
    ]
   },
@@ -7823,6 +8689,8 @@
     }
    ],
    "entities": [
+    "isatin derivative",
+    "isatin",
     "bromide"
    ]
   },
@@ -7836,6 +8704,9 @@
     }
    ],
    "entities": [
+    "jhmv",
+    "glial cell",
+    "neural progenitor cell",
     "type i ifn"
    ]
   },
@@ -7862,6 +8733,12 @@
     }
    ],
    "entities": [
+    "clostridium perfringen",
+    "escherichia coli",
+    "salmonella spp",
+    "rotavirus",
+    "rv-a",
+    "coronaviruse",
     "porcine"
    ]
   },
@@ -7880,6 +8757,8 @@
     }
    ],
    "entities": [
+    "Poskanzer",
+    "cell",
     "membrane"
    ]
   },
@@ -7893,6 +8772,8 @@
     }
    ],
    "entities": [
+    "bat",
+    "human",
     "livestock"
    ]
   },
@@ -7911,6 +8792,9 @@
     }
    ],
    "entities": [
+    "stem",
+    "stem cell",
+    "tissue",
     "telomerase"
    ]
   },
@@ -7924,6 +8808,7 @@
     }
    ],
    "entities": [
+    "Wintermeyer",
     "S.M."
    ]
   },
@@ -7942,6 +8827,8 @@
     }
    ],
    "entities": [
+    "Polydnaviridae",
+    "Dicistroviridae",
     "Nodaviridae"
    ]
   },
@@ -7960,6 +8847,7 @@
     }
    ],
    "entities": [
+    "coronaviruse",
     "piglet fecal sample"
    ]
   },
@@ -7973,6 +8861,7 @@
     }
    ],
    "entities": [
+    "wes",
     "patient"
    ]
   },
@@ -7991,6 +8880,8 @@
     }
    ],
    "entities": [
+    "human granulocyte colonystimulating factor",
+    "e. coli",
     "body"
    ]
   },
@@ -8009,6 +8900,9 @@
     }
    ],
    "entities": [
+    "Rosenthal",
+    "R.",
+    "frhk-4 cell culture",
     "scv"
    ]
   },
@@ -8074,6 +8968,7 @@
     }
    ],
    "entities": [
+    "tbd",
     "patient"
    ]
   },
@@ -8087,6 +8982,7 @@
     }
    ],
    "entities": [
+    "elp",
     "elp"
    ]
   },
@@ -8126,6 +9022,8 @@
     }
    ],
    "entities": [
+    "cryptococcus laurentii",
+    "≥",
     "meningeal"
    ]
   },
@@ -8139,6 +9037,9 @@
     }
    ],
    "entities": [
+    "elp-tagged",
+    "elp",
+    "elp",
     "elp-tagged"
    ]
   },
@@ -8152,6 +9053,9 @@
     }
    ],
    "entities": [
+    "amantadine",
+    "memantine",
+    "nmda receptor",
     "cell"
    ]
   },
@@ -8188,6 +9092,9 @@
     }
    ],
    "entities": [
+    "hnp1",
+    "ne",
+    "pr3",
     "hnp1"
    ]
   },
@@ -8219,6 +9126,9 @@
     }
    ],
    "entities": [
+    "scv helicase",
+    "Adamantanes",
+    "tricyclo[3.3.1.1",
     "decane"
    ]
   },
@@ -8263,6 +9173,10 @@
     }
    ],
    "entities": [
+    "patient",
+    "≥",
+    "dexmedetomidine",
+    "dex",
     "non-dexmedetomidine [ non-dex ] group )"
    ]
   },
@@ -8281,6 +9195,10 @@
     }
    ],
    "entities": [
+    "gold-binding",
+    "gbp",
+    "single-chain antibody",
+    "hbv surface antigen",
     "hbsag"
    ]
   },
@@ -8307,6 +9225,10 @@
     }
    ],
    "entities": [
+    "oligo-oxaa",
+    "mbd",
+    "adamantane",
+    "oxygen",
     "ntpase/helicase"
    ]
   },
@@ -8361,6 +9283,7 @@
     }
    ],
    "entities": [
+    "dog",
     "cat"
    ]
   },
@@ -8400,6 +9323,7 @@
     }
    ],
    "entities": [
+    "surface",
     "hbsag"
    ]
   },
@@ -8426,6 +9350,8 @@
     }
    ],
    "entities": [
+    "interleukin-8",
+    "il-8",
     "nasal neutrophil"
    ]
   },
@@ -8444,6 +9370,13 @@
     }
    ],
    "entities": [
+    "Niin",
+    "neurotoxin",
+    "puffer dovirale",
+    "equine arterivirus",
+    "eav",
+    "tetrodotoxin",
+    "ttx",
     "30]natural product steroid"
    ]
   },
@@ -8462,6 +9395,7 @@
     }
    ],
    "entities": [
+    "dex",
     "[ 7 ] [ 8 ] [ 9 ] [ 10 ] [ 11 ] [ 9 ] [ 10 ] [ 11 ] [ 12 ] [ 13 ]"
    ]
   },
@@ -8475,6 +9409,8 @@
     }
    ],
    "entities": [
+    "nov genogroup iv",
+    "caliciviruse",
     "feline gastroenteritis"
    ]
   },
@@ -8488,6 +9424,11 @@
     }
    ],
    "entities": [
+    "hemagglutinin-esterase",
+    "turkey coronavirus",
+    "(utr)-replicase",
+    "3b)-small envelop ( e or 3c ) protein-membrane ( m ) protein-orf5",
+    "5a",
     "5b)-nucleocapsid"
    ]
   },
@@ -8514,6 +9455,11 @@
     }
    ],
    "entities": [
+    "polyprotein",
+    "secretory system",
+    "host cell",
+    "gn",
+    "gc",
     "non-structural glycoprotein"
    ]
   },
@@ -8527,6 +9473,9 @@
     }
    ],
    "entities": [
+    "perbananin",
+    "intracellular",
+    "cesse",
     "scv"
    ]
   },
@@ -8540,6 +9489,7 @@
     }
    ],
    "entities": [
+    "dog",
     "ancylostomid"
    ]
   },
@@ -8553,6 +9503,7 @@
     }
    ],
    "entities": [
+    "scv helicase [ 26",
     "helicase"
    ]
   },
@@ -8644,6 +9595,8 @@
     }
    ],
    "entities": [
+    "Wuhan",
+    "Coronavirus",
     "people"
    ]
   },
@@ -8657,6 +9610,9 @@
     }
    ],
    "entities": [
+    "elp",
+    "val-pro-gly-xaa-gly",
+    "vpgxg",
     "amino acid"
    ]
   },
@@ -8670,6 +9626,11 @@
     }
    ],
    "entities": [
+    "mouse",
+    "saponin",
+    "qs21",
+    "ribi",
+    "mpl",
     "sars-cov."
    ]
   },
@@ -8688,6 +9649,11 @@
     }
    ],
    "entities": [
+    "ne",
+    "pr3",
+    "prohnp1",
+    "hnp1",
+    "neutrophil",
     "hnp1"
    ]
   },
@@ -8706,6 +9672,8 @@
     }
    ],
    "entities": [
+    "human",
+    "gut",
     "human cell"
    ]
   },
@@ -8755,6 +9723,7 @@
     }
    ],
    "entities": [
+    "puppy",
     "kitten"
    ]
   },
@@ -8768,6 +9737,7 @@
     }
    ],
    "entities": [
+    "dexmedetomidine",
     "patient"
    ]
   },
@@ -8781,6 +9751,8 @@
     }
    ],
    "entities": [
+    "dimethyl formamide",
+    "dmf",
     "matrix"
    ]
   },
@@ -8794,6 +9766,8 @@
     }
    ],
    "entities": [
+    "gn/gc heteromeric complex",
+    "gn",
     "endoplasmic reticulum"
    ]
   },
@@ -8807,6 +9781,7 @@
     }
    ],
    "entities": [
+    "puppy",
     "kitten"
    ]
   },
@@ -8825,6 +9800,7 @@
     }
    ],
    "entities": [
+    "1,4-dioxane",
     "bone"
    ]
   },
@@ -8838,6 +9814,7 @@
     }
    ],
    "entities": [
+    "1,4dioxane",
     "plga/tcp"
    ]
   },
@@ -8856,6 +9833,8 @@
     }
    ],
    "entities": [
+    "sst",
+    "polysaccharide",
     "sst"
    ]
   },
@@ -8869,6 +9848,8 @@
     }
    ],
    "entities": [
+    "dexmedetomidine",
+    "organ",
     "patient"
    ]
   },
@@ -8939,6 +9920,9 @@
     }
    ],
    "entities": [
+    "M.",
+    "Nussler",
+    "Oberthur",
     "W. ( 1999 )"
    ]
   },
@@ -8988,6 +9972,8 @@
     }
    ],
    "entities": [
+    "ibv",
+    "poultry",
     "serotype"
    ]
   },
@@ -9006,6 +9992,8 @@
     }
    ],
    "entities": [
+    "ibv",
+    "organ",
     "kidney"
    ]
   },
@@ -9042,6 +10030,7 @@
     }
    ],
    "entities": [
+    "Coronavirus",
     "mers-cov"
    ]
   },
@@ -9060,6 +10049,7 @@
     }
    ],
    "entities": [
+    "kidney",
     "ibv strain"
    ]
   },
@@ -9073,6 +10063,8 @@
     }
    ],
    "entities": [
+    "duck",
+    "rabbit",
     "ul24 recombinant"
    ]
   },
@@ -9091,6 +10083,7 @@
     }
    ],
    "entities": [
+    "epithelial cell",
     "trachea"
    ]
   },
@@ -9109,6 +10102,20 @@
     }
    ],
    "entities": [
+    "maxillary",
+    "patient",
+    "sime1,68",
+    "purulent",
+    "penicillin",
+    "pcn",
+    "cephalosporin pcn v",
+    "po q6 - 8h",
+    "pcn g",
+    "PO",
+    "Ampicillin",
+    "augmentin",
+    "po",
+    "ampicillin/sulbactam",
     "Unasyn"
    ]
   },
@@ -9132,6 +10139,9 @@
     }
    ],
    "entities": [
+    "igg antibody",
+    "ul24",
+    "duck",
     "rabbit"
    ]
   },
@@ -9145,6 +10155,8 @@
     }
    ],
    "entities": [
+    "myricetin",
+    "hsv-2",
     "acyclovir"
    ]
   },
@@ -9163,6 +10175,7 @@
     }
    ],
    "entities": [
+    "ibv",
     "membrane"
    ]
   },
@@ -9176,6 +10189,11 @@
     }
    ],
    "entities": [
+    "sialic acid",
+    "tissue",
+    "tissue",
+    "qx-rbd",
+    "trachea",
     "kidney"
    ]
   },
@@ -9194,6 +10212,8 @@
     }
    ],
    "entities": [
+    "maxillary sinusitis",
+    "acute sinusitis",
     "streptococcus pneumoniae"
    ]
   },
@@ -9225,6 +10245,7 @@
     }
    ],
    "entities": [
+    "woman",
     "human influenza"
    ]
   },
@@ -9256,6 +10277,18 @@
     }
    ],
    "entities": [
+    "C.",
+    "S.",
+    "Preiser",
+    "W.",
+    "S.",
+    "S.",
+    "Rabenau",
+    "H.",
+    "M.",
+    "Kolesnikova",
+    "L.",
+    "sybr green -PRON-",
     "Fouchier"
    ]
   },
@@ -9269,6 +10302,8 @@
     }
    ],
    "entities": [
+    "amf",
+    "bmo",
     "lps"
    ]
   },
@@ -9282,6 +10317,7 @@
     }
    ],
    "entities": [
+    "human",
     "human"
    ]
   },
@@ -9326,6 +10362,7 @@
     }
    ],
    "entities": [
+    "anti-galactocerebroside",
     "oligodendrocyte"
    ]
   },
@@ -9357,6 +10394,9 @@
     }
    ],
    "entities": [
+    "elp",
+    "vpgxg",
+    "pet23a ( novagen",
     "pet23a-elp"
    ]
   },
@@ -9370,6 +10410,7 @@
     }
    ],
    "entities": [
+    "Nix",
     "Campagnoli"
    ]
   },
@@ -9383,6 +10424,8 @@
     }
    ],
    "entities": [
+    "measle",
+    "rubella virus",
     "human"
    ]
   },
@@ -9453,6 +10496,7 @@
     }
    ],
    "entities": [
+    "elp",
     "cell"
    ]
   },
@@ -9492,6 +10536,12 @@
     }
    ],
    "entities": [
+    "porcine peripheral blood monocyte",
+    "bmo",
+    "peritoneal macrophage",
+    "PMf",
+    "alveolar macrophage",
+    "amf",
     "prrsv"
    ]
   },
@@ -9523,6 +10573,10 @@
     }
    ],
    "entities": [
+    "pp60",
+    "p57",
+    "pp60",
+    "intracellular",
     "pp60"
    ]
   },
@@ -9559,6 +10613,13 @@
     }
    ],
    "entities": [
+    "Erdman",
+    "D.",
+    "LC Faststart DNA Master Hyb Probes",
+    "S.",
+    "S.",
+    "Urbani",
+    "C.",
     "W."
    ]
   },
@@ -9590,6 +10651,9 @@
     }
    ],
    "entities": [
+    "streptococcus viridans",
+    "h. influenzae",
+    "organisms.12",
     "allergic rhinitis"
    ]
   },
@@ -9603,6 +10667,8 @@
     }
    ],
    "entities": [
+    "mouse",
+    "virus-specific t cell clone",
     "h-2-matched recipient"
    ]
   },
@@ -9621,6 +10687,10 @@
     }
    ],
    "entities": [
+    "Icenogle",
+    "S.",
+    "Bankamp",
+    "K.",
     "β-actin"
    ]
   },
@@ -9634,6 +10704,7 @@
     }
    ],
    "entities": [
+    "COVID-19",
     "cardiac"
    ]
   },
@@ -9647,6 +10718,7 @@
     }
    ],
    "entities": [
+    "7(3",
     "e32469"
    ]
   },
@@ -9660,6 +10732,11 @@
     }
    ],
    "entities": [
+    "amf",
+    "bmo",
+    "lipopolysaccharide",
+    "lps",
+    "phorbol myristate acetate",
     "pma"
    ]
   },
@@ -9673,6 +10750,7 @@
     }
    ],
    "entities": [
+    "elp",
     "itc"
    ]
   },
@@ -9691,6 +10769,7 @@
     }
    ],
    "entities": [
+    "coronavirus disease 2019",
     "covid-19"
    ]
   },
@@ -9717,6 +10796,7 @@
     }
    ],
    "entities": [
+    "PMf",
     "bmo"
    ]
   },
@@ -9774,6 +10854,9 @@
     }
    ],
    "entities": [
+    "anti-rna-viral",
+    "vitamin b6-derived",
+    "hexamer",
     "trioxa-adamantane-triol"
    ]
   },
@@ -9797,6 +10880,9 @@
     }
    ],
    "entities": [
+    "nucleocapsid",
+    "~~60",
+    "jhm",
     "murine coronaviruse"
    ]
   },
@@ -9810,6 +10896,7 @@
     }
    ],
    "entities": [
+    "camel",
     "human"
    ]
   },
@@ -9828,6 +10915,7 @@
     }
    ],
    "entities": [
+    "ibv",
     "cell cytoplasm"
    ]
   },
@@ -9846,6 +10934,12 @@
     }
    ],
    "entities": [
+    "bacteria.3o",
+    "septa1",
+    "polyps",
+    "nasogastric tube",
+    "upper tooth",
+    "fistula",
     "sinus"
    ]
   },
@@ -9859,6 +10953,8 @@
     }
    ],
    "entities": [
+    "elp-tagged",
+    "elp",
     "elp-tag-based"
    ]
   },
@@ -9934,6 +11030,8 @@
     }
    ],
    "entities": [
+    "interferon-based",
+    "somatic cell",
     "mammalian cell"
    ]
   },
@@ -9960,6 +11058,11 @@
     }
    ],
    "entities": [
+    "human",
+    "scd-1",
+    "liver",
+    "scd-5",
+    "brain",
     "pancreas"
    ]
   },
@@ -10009,6 +11112,7 @@
     }
    ],
    "entities": [
+    "intracellular",
     "rotavirus"
    ]
   },
@@ -10035,6 +11139,7 @@
     }
    ],
    "entities": [
+    "ibv",
     "ibv"
    ]
   },
@@ -10074,6 +11179,9 @@
     }
    ],
    "entities": [
+    "cd8 t cell",
+    "lung",
+    "rsv",
     "ifn-γ"
    ]
   },
@@ -10087,6 +11195,8 @@
     }
    ],
    "entities": [
+    "fatty acid",
+    "hcv-induced",
     "membrane"
    ]
   },
@@ -10131,6 +11241,7 @@
     }
    ],
    "entities": [
+    "mbp",
     "demyelinating lesion"
    ]
   },
@@ -10162,6 +11273,7 @@
     }
    ],
    "entities": [
+    "oleic acid",
     "hcv-induced"
    ]
   },
@@ -10193,6 +11305,7 @@
     }
    ],
    "entities": [
+    "virus",
     "vsrs"
    ]
   },
@@ -10224,6 +11337,7 @@
     }
    ],
    "entities": [
+    "ifn-γ",
     "lung"
    ]
   },
@@ -10237,6 +11351,9 @@
     }
    ],
    "entities": [
+    "intestine bacillus 69",
+    "haemophiluses 32",
+    "streptococcus ( a ,",
     "c and g ) 30"
    ]
   },
@@ -10281,6 +11398,8 @@
     }
    ],
    "entities": [
+    "stearoyl-coa desaturase 1",
+    "scd-1",
     "hcv-induced membrane"
    ]
   },
@@ -10294,6 +11413,7 @@
     }
    ],
    "entities": [
+    "cd8 t cell",
     "rsv"
    ]
   },
@@ -10320,6 +11440,7 @@
     }
    ],
    "entities": [
+    "vertebral",
     "spinal cord"
    ]
   },
@@ -10338,6 +11459,9 @@
     }
    ],
    "entities": [
+    "scd-1",
+    "hcv",
+    "membranous web",
     "hcv"
    ]
   },
@@ -10351,6 +11475,9 @@
     }
    ],
    "entities": [
+    "myelin",
+    "cns",
+    "myelin basic protein",
     "mouse"
    ]
   },
@@ -10369,6 +11496,9 @@
     }
    ],
    "entities": [
+    "DRC 's health",
+    "peripheral",
+    "peripheral",
     "people"
    ]
   },
@@ -10382,6 +11512,9 @@
     }
    ],
    "entities": [
+    "fatty acid",
+    "phospholipid fatty-acyl chain",
+    "lipid",
     "fatty acid"
    ]
   },
@@ -10395,6 +11528,8 @@
     }
    ],
    "entities": [
+    "rnase",
+    "mbp",
     "mbp"
    ]
   },
@@ -10408,6 +11543,10 @@
     }
    ],
    "entities": [
+    "rsv-specific neutralize antibody",
+    "cd8 t",
+    "mouse",
+    "cd8 t cell",
     "rsv"
    ]
   },
@@ -10457,6 +11596,7 @@
     }
    ],
    "entities": [
+    "gp1",
     "clec"
    ]
   },
@@ -10480,6 +11620,8 @@
     }
    ],
    "entities": [
+    "virus-like particle",
+    "virion",
     "m."
    ]
   },
@@ -10493,6 +11635,7 @@
     }
    ],
    "entities": [
+    "ctf13",
     "kinetochore"
    ]
   },
@@ -10506,6 +11649,15 @@
     }
    ],
    "entities": [
+    "cell clone",
+    "interferon beta",
+    "poly(i",
+    "vesicular stomatitis virus",
+    "vsv",
+    "porcine",
+    "coronavirus",
+    "coronavirus",
+    "herpes simplex virus",
     "hsv"
    ]
   },
@@ -10542,6 +11694,7 @@
     }
    ],
    "entities": [
+    "patient",
     "COVID-19"
    ]
   },
@@ -10555,6 +11708,7 @@
     }
    ],
    "entities": [
+    "gp1 n-glycan",
     "antiserum"
    ]
   },
@@ -10586,6 +11740,15 @@
     }
    ],
    "entities": [
+    "adp-ribosyltransferase",
+    "cellular",
+    "dna",
+    "cell",
+    "cell",
+    "adp-ribosyltransferase",
+    "cellular",
+    "dna",
+    "cell",
     "cell"
    ]
   },
@@ -10599,6 +11762,10 @@
     }
    ],
    "entities": [
+    "renin-angiotensin-aldosterone system",
+    "raas",
+    "COVID-19",
+    "raas",
     "patient"
    ]
   },
@@ -10612,6 +11779,7 @@
     }
    ],
    "entities": [
+    "sars-cov-2",
     "nasopharyngeal swab"
    ]
   },
@@ -10630,6 +11798,10 @@
     }
    ],
    "entities": [
+    "stearoyl-coa desaturase 1",
+    "scd-1",
+    "unsaturated fatty acid",
+    "oleic acid",
     "hcv"
    ]
   },
@@ -10643,6 +11815,9 @@
     }
    ],
    "entities": [
+    "chick embryonic tissue",
+    "chick embryo",
+    "a.",
     "C. Upadhyay Á V."
    ]
   },
@@ -10669,6 +11844,7 @@
     }
    ],
    "entities": [
+    "l.",
     "serum"
    ]
   },
@@ -10687,6 +11863,10 @@
     }
    ],
    "entities": [
+    "intraperitoneal",
+    "myricetin",
+    "mouse",
+    "lung",
     "spinal cord"
    ]
   },
@@ -10700,6 +11880,7 @@
     }
    ],
    "entities": [
+    "bat",
     "bat"
    ]
   },
@@ -10713,6 +11894,7 @@
     }
    ],
    "entities": [
+    "cbf2",
     "kinetochore"
    ]
   },
@@ -10726,6 +11908,7 @@
     }
    ],
    "entities": [
+    "ac-elisa",
     "dev antigen"
    ]
   },
@@ -10765,6 +11948,8 @@
     }
    ],
    "entities": [
+    "flavonoid myricetin",
+    "virus gd",
     "cellular"
    ]
   },
@@ -10791,6 +11976,8 @@
     }
    ],
    "entities": [
+    "anti-hsv 1",
+    "varicella-zoster igm antibody",
     "serum sample"
    ]
   },
@@ -10804,6 +11991,11 @@
     }
    ],
    "entities": [
+    "stem",
+    "adp-ribose",
+    "amino acid",
+    "stem",
+    "adp-ribose",
     "amino acid"
    ]
   },
@@ -10817,6 +12009,17 @@
     }
    ],
    "entities": [
+    "f5",
+    "f41",
+    "bfp",
+    "stx 1",
+    "stx 2",
+    "eae",
+    "ehlya",
+    "cnf 1",
+    "cnf 2",
+    "cdiii",
+    "cdiv",
     "f17"
    ]
   },
@@ -10830,6 +12033,10 @@
     }
    ],
    "entities": [
+    "cardiac",
+    "renal",
+    "patient",
+    "covid-19",
     "coronavirus"
    ]
   },
@@ -10843,6 +12050,7 @@
     }
    ],
    "entities": [
+    "fatty acid",
     "hcv"
    ]
   },
@@ -10861,6 +12069,7 @@
     }
    ],
    "entities": [
+    "adenovirus",
     "Rhinoviruses 31"
    ]
   },
@@ -10874,6 +12083,7 @@
     }
    ],
    "entities": [
+    "Elsevier Inc.",
     "Elsevier Inc."
    ]
   },
@@ -10887,6 +12097,7 @@
     }
    ],
    "entities": [
+    "patient",
     "cns"
    ]
   },
@@ -10900,6 +12111,7 @@
     }
    ],
    "entities": [
+    "membrane",
     "flaviviridae"
    ]
   },
@@ -10918,6 +12130,7 @@
     }
    ],
    "entities": [
+    "ctf13",
     "amino acid"
    ]
   },
@@ -10957,6 +12170,8 @@
     }
    ],
    "entities": [
+    "Novaferon",
+    "covid-19 patient",
     "Novaferon , Novaferon plus lopinavir/ritonavir"
    ]
   },
@@ -10970,6 +12185,13 @@
     }
    ],
    "entities": [
+    "arterial",
+    "cardiovascular",
+    "patient",
+    "COVID-19",
+    "patient",
+    "j o u r n a l p r e -p r o o f 2",
+    "coronavirus",
     "covid-19 patient"
    ]
   },
@@ -10983,6 +12205,7 @@
     }
    ],
    "entities": [
+    "bat",
     "bat"
    ]
   },
@@ -10996,6 +12219,8 @@
     }
    ],
    "entities": [
+    "coronavirus",
+    "sars-coronavirus-2:sars-cov-2",
     "Wuhan ,"
    ]
   },
@@ -11009,6 +12234,8 @@
     }
    ],
    "entities": [
+    "e. coli isolate",
+    "rectal swab",
     "lamb"
    ]
   },
@@ -11022,6 +12249,7 @@
     }
    ],
    "entities": [
+    "lethal",
     "covid-19 patient"
    ]
   },
@@ -11035,6 +12263,10 @@
     }
    ],
    "entities": [
+    "pleomorphic virus",
+    "coronavirus",
+    "matrix protein m",
+    "mhv",
     "Klumperman"
    ]
   },
@@ -11053,6 +12285,7 @@
     }
    ],
    "entities": [
+    "ebov gp1",
     "glycan"
    ]
   },
@@ -11084,6 +12317,8 @@
     }
    ],
    "entities": [
+    "5e en 6e",
+    "kinderziekten",
     "conclusie -78 Literatuur"
    ]
   },
@@ -11097,6 +12332,11 @@
     }
    ],
    "entities": [
+    "ibv strain",
+    "chicken respiratory tract",
+    "ciliated epithelial layer",
+    "trachea",
+    "kidney",
     "ibv"
    ]
   },
@@ -11110,6 +12350,8 @@
     }
    ],
    "entities": [
+    "myricetin",
+    "cellular egfr/pi3k/ akt",
     "hsv"
    ]
   },
@@ -11141,6 +12383,18 @@
     }
    ],
    "entities": [
+    "ac-elisa",
+    "duck hepatitis virus",
+    "dhv",
+    "duck hepatitis b virus",
+    "dhbv",
+    "gosle plague virus",
+    "gpv",
+    "Riemerella anatipestifer",
+    "escherichia coli",
+    "e. coli",
+    "pasteurella multocida",
+    "P.M.",
     "salmonella enteritidis"
    ]
   },
@@ -11167,6 +12421,7 @@
     }
    ],
    "entities": [
+    "coronavirus",
     "serotype"
    ]
   },
@@ -11185,6 +12440,11 @@
     }
    ],
    "entities": [
+    "myricetin",
+    "hsv",
+    "virus gd",
+    "membrane",
+    "nucleoside",
     "acyclovir"
    ]
   },
@@ -11198,6 +12458,7 @@
     }
    ],
    "entities": [
+    "cmah",
     "human"
    ]
   },
@@ -11247,6 +12508,9 @@
     }
    ],
    "entities": [
+    "igg antibody",
+    "ul24",
+    "duck",
     "rabbit"
    ]
   },
@@ -11278,6 +12542,7 @@
     }
    ],
    "entities": [
+    "blood",
     "patient"
    ]
   },
@@ -11291,6 +12556,8 @@
     }
    ],
    "entities": [
+    "deer",
+    "ixodes scapularis tick",
     "encephalitis"
    ]
   },
@@ -11309,6 +12576,15 @@
     }
    ],
    "entities": [
+    "human coronaviruse",
+    "hcovs",
+    "cell",
+    "endosomal",
+    "cathepsin",
+    "cell-surface",
+    "endosome",
+    "extracellular protease",
+    "transmembrane protease serine 2",
     "tmprss2"
    ]
   },
@@ -11322,6 +12598,7 @@
     }
    ],
    "entities": [
+    "igm",
     "igg"
    ]
   },
@@ -11348,6 +12625,11 @@
     }
    ],
    "entities": [
+    "cmp-n-acetylneuraminic acid hydroxylase",
+    "cmah",
+    "n-glycolylneuraminic acid",
+    "neu5gc",
+    "sialic acid",
     "cell surface"
    ]
   },
@@ -11361,6 +12643,8 @@
     }
    ],
    "entities": [
+    "duck",
+    "rabbit",
     "ul24 recombinant"
    ]
   },
@@ -11400,6 +12684,12 @@
     }
    ],
    "entities": [
+    "pédiatrique",
+    "société",
+    "d'endoscopie",
+    "sfed",
+    "le groupe d'endoscopie",
+    "pédiatrique",
     "gfhgnp"
    ]
   },
@@ -11439,6 +12729,7 @@
     }
    ],
    "entities": [
+    "human",
     "neu5gc"
    ]
   },
@@ -11452,6 +12743,7 @@
     }
    ],
    "entities": [
+    "cell",
     "(sirna)-based"
    ]
   },
@@ -11514,6 +12806,8 @@
     }
    ],
    "entities": [
+    "sars coronavirus",
+    "Ebola virus",
     "lassa virus"
    ]
   },
@@ -11527,6 +12821,7 @@
     }
    ],
    "entities": [
+    "ago2",
     "ago2"
    ]
   },
@@ -11558,6 +12853,8 @@
     }
    ],
    "entities": [
+    "vsr",
+    "argonaute2",
     "ago2"
    ]
   },
@@ -11620,6 +12917,7 @@
     }
    ],
    "entities": [
+    "vesicular",
     "abdoman"
    ]
   },
@@ -11638,6 +12936,9 @@
     }
    ],
    "entities": [
+    "ttv",
+    "ebv",
+    "ttv",
     "ebv"
    ]
   },
@@ -11651,6 +12952,8 @@
     }
    ],
    "entities": [
+    "integrin",
+    "cell",
     "coreceptor"
    ]
   },
@@ -11682,6 +12985,8 @@
     }
    ],
    "entities": [
+    "herpes zoster virus encephalitis",
+    "intracerebral",
     "patient"
    ]
   },
@@ -11708,6 +13013,11 @@
     }
    ],
    "entities": [
+    "t cell",
+    "wt",
+    "−/− mouse",
+    "rag1",
+    "t cell",
     "cns"
    ]
   },
@@ -11721,6 +13031,14 @@
     }
    ],
    "entities": [
+    "ifc",
+    "swine testicle epithelial ) cell",
+    "csfv",
+    "ec",
+    "swine umbilical vein endothelial cell",
+    "iec",
+    "swine intestinal epithelial cell",
+    "pk",
     "porcine kidney epithelial ) cell"
    ]
   },
@@ -11734,6 +13052,7 @@
     }
    ],
    "entities": [
+    "farmed",
     "coronavirus"
    ]
   },
@@ -11770,6 +13089,7 @@
     }
    ],
    "entities": [
+    "e. coli",
     "eiec"
    ]
   },
@@ -11788,6 +13108,8 @@
     }
    ],
    "entities": [
+    "porcine",
+    "virus (",
     "pedv"
    ]
   },
@@ -11801,6 +13123,9 @@
     }
    ],
    "entities": [
+    "lps",
+    "saline",
+    "intravenously",
     "mouse"
    ]
   },
@@ -11814,6 +13139,11 @@
     }
    ],
    "entities": [
+    "st cell",
+    "integrin b3",
+    "ec",
+    "iec",
+    "pk cell",
     "csfv"
    ]
   },
@@ -11827,6 +13157,8 @@
     }
    ],
    "entities": [
+    "wt mouse",
+    "−/− mouse",
     "cns"
    ]
   },
@@ -11845,6 +13177,7 @@
     }
    ],
    "entities": [
+    "lincomycin",
     "kanamycine"
    ]
   },
@@ -11863,6 +13196,8 @@
     }
    ],
    "entities": [
+    "twenty-six-day-old",
+    "9-day-old nursing pig",
     "pc21a"
    ]
   },
@@ -11907,6 +13242,8 @@
     }
    ],
    "entities": [
+    "plasma",
+    "il-10",
     "pulmonary il-10"
    ]
   },
@@ -11925,6 +13262,8 @@
     }
    ],
    "entities": [
+    "pvhap2",
+    "gms",
     "Myanmar"
    ]
   },
@@ -11938,6 +13277,10 @@
     }
    ],
    "entities": [
+    "integrin b3",
+    "csfv",
+    "cell line",
+    "csfv",
     "integrin b3 function-blocked cell"
    ]
   },
@@ -11964,6 +13307,7 @@
     }
    ],
    "entities": [
+    "lung",
     "bronchial lymph node"
    ]
   },
@@ -11987,6 +13331,10 @@
     }
    ],
    "entities": [
+    "p7",
+    "hcv",
+    "virus progeny",
+    "p7",
     "hcv-a"
    ]
   },
@@ -12005,6 +13353,8 @@
     }
    ],
    "entities": [
+    "e317 k",
+    "d637n",
     "s307-g324"
    ]
   },
@@ -12018,6 +13368,13 @@
     }
    ],
    "entities": [
+    "ki67-or lgr5-positive cell",
+    "intestinal crypt",
+    "lgr5-positive cell",
+    "crypts",
+    "jejunum",
+    "enterocyte",
+    "lgr5-positive cell",
     "intestinal crypts"
    ]
   },
@@ -12031,6 +13388,7 @@
     }
    ],
    "entities": [
+    "colon sample",
     "crcov"
    ]
   },
@@ -12044,6 +13402,9 @@
     }
    ],
    "entities": [
+    "m , 5a",
+    "5b",
+    "5a",
     "ibv"
    ]
   },
@@ -12057,6 +13418,11 @@
     }
    ],
    "entities": [
+    "nuclear",
+    "t-cell intracellular antigen",
+    "polypyrimidine tract-binding",
+    "sinv-infected cell",
+    "nsps",
     "replicon"
    ]
   },
@@ -12083,6 +13449,7 @@
     }
    ],
    "entities": [
+    "pvhap2",
     "p. vivax population"
    ]
   },
@@ -12101,6 +13468,7 @@
     }
    ],
    "entities": [
+    "c57bl/6 j mouse",
     "liδactaplcb-rv0129c"
    ]
   },
@@ -12127,6 +13495,9 @@
     }
    ],
    "entities": [
+    "ifn-γ",
+    "−/−",
+    "virus-specific cd4",
     "cd4 + cell"
    ]
   },
@@ -12145,6 +13516,7 @@
     }
    ],
    "entities": [
+    "lps",
     "pulmonary"
    ]
   },
@@ -12171,6 +13543,9 @@
     }
    ],
    "entities": [
+    "watery",
+    "serum",
+    "piglet",
     "pids 1 - 5"
    ]
   },
@@ -12197,6 +13572,7 @@
     }
    ],
    "entities": [
+    "COVID-19",
     "ASAIO"
    ]
   },
@@ -12215,6 +13591,11 @@
     }
    ],
    "entities": [
+    "p. vivax population",
+    "gms",
+    "f st",
+    "0.24833",
+    "China-Myanmar border",
     "f st ="
    ]
   },
@@ -12228,6 +13609,8 @@
     }
    ],
    "entities": [
+    "pig",
+    "pedv",
     "pid"
    ]
   },
@@ -12254,6 +13637,7 @@
     }
    ],
    "entities": [
+    "dna",
     "rtpcr"
    ]
   },
@@ -12272,6 +13656,8 @@
     }
    ],
    "entities": [
+    "p7",
+    "hepatitis c virus",
     "hcv"
    ]
   },
@@ -12290,6 +13676,9 @@
     }
    ],
    "entities": [
+    "canine respiratory coronavirus",
+    "crcov",
+    "dog",
     "canine"
    ]
   },
@@ -12303,6 +13692,7 @@
     }
    ],
    "entities": [
+    "pvhap2 antigen",
     "S307-G324"
    ]
   },
@@ -12370,6 +13760,9 @@
     }
    ],
    "entities": [
+    "sting",
+    "sting",
+    "sting",
     "sting"
    ]
   },
@@ -12401,6 +13794,8 @@
     }
    ],
    "entities": [
+    "nucleoside",
+    "cellular",
     "nuclear"
    ]
   },
@@ -12440,6 +13835,8 @@
     }
    ],
    "entities": [
+    "sting",
+    "sting",
     "cancer"
    ]
   },
@@ -12453,6 +13850,7 @@
     }
    ],
    "entities": [
+    "beta hemolytic streptococcus",
     "diphtheria"
    ]
   },
@@ -12466,6 +13864,7 @@
     }
    ],
    "entities": [
+    "cmah",
     "green algae"
    ]
   },
@@ -12479,6 +13878,10 @@
     }
    ],
    "entities": [
+    "teno virus",
+    "ttv",
+    "epstein-barr virus",
+    "ebv",
     "patient"
    ]
   },
@@ -12497,6 +13900,7 @@
     }
    ],
    "entities": [
+    "coronavirus",
     "human"
    ]
   },
@@ -12510,6 +13914,7 @@
     }
    ],
    "entities": [
+    "lung",
     "heart"
    ]
   },
@@ -12567,6 +13972,8 @@
     }
    ],
    "entities": [
+    "COVID-19",
+    "coronavirus",
     "sars-cov"
    ]
   },
@@ -12580,6 +13987,9 @@
     }
    ],
    "entities": [
+    "er",
+    "cell",
+    "upr",
     "mitochondrial"
    ]
   },
@@ -12606,6 +14016,9 @@
     }
    ],
    "entities": [
+    "neu5gc",
+    "cmah",
+    "human",
     "human"
    ]
   },
@@ -12624,6 +14037,10 @@
     }
    ],
    "entities": [
+    "vrti",
+    "cytomegalovirus",
+    "cmv",
+    "ttv",
     "ebv"
    ]
   },
@@ -12637,6 +14054,9 @@
     }
    ],
    "entities": [
+    "ace2",
+    "neurological tissue",
+    "neurological tissue",
     "COIVD-19"
    ]
   },
@@ -12655,6 +14075,18 @@
     }
    ],
    "entities": [
+    "ac-elisa",
+    "duck hepatitis virus",
+    "dhv",
+    "duck hepatitis b virus",
+    "dhbv",
+    "gosle plague virus",
+    "gpv",
+    "Riemerella anatipestifer",
+    "escherichia coli",
+    "e. coli",
+    "pasteurella multocida",
+    "P.M.",
     "salmonella enteritidis"
    ]
   },
@@ -12694,6 +14126,7 @@
     }
    ],
    "entities": [
+    "l.",
     "serum"
    ]
   },
@@ -12707,6 +14140,7 @@
     }
    ],
    "entities": [
+    "ttv",
     "ebv"
    ]
   },
@@ -12720,6 +14154,10 @@
     }
    ],
    "entities": [
+    "dipeptidyl peptidase 4",
+    "dpp4",
+    "endothelial",
+    "epithelial cell",
     "human nonciliated bronchiolar epithelium cell"
    ]
   },
@@ -12756,6 +14194,7 @@
     }
    ],
    "entities": [
+    "Senegal",
     "Benin ,"
    ]
   },
@@ -12769,6 +14208,10 @@
     }
    ],
    "entities": [
+    "ala1",
+    "California",
+    "cal3",
+    "m",
     "ark-like"
    ]
   },
@@ -12787,6 +14230,15 @@
     }
    ],
    "entities": [
+    "organ",
+    "organ",
+    "t cell",
+    "lung",
+    "spleen",
+    "igg",
+    "serum",
+    "secretory iga",
+    "bronchoalveolar lavage",
     "bal"
    ]
   },
@@ -12800,6 +14252,8 @@
     }
    ],
    "entities": [
+    "human rhinovirus",
+    "upper respiratory tract infection",
     "human"
    ]
   },
@@ -12826,6 +14280,11 @@
     }
    ],
    "entities": [
+    "nucleoside",
+    "eif2α",
+    "pkr",
+    "mouse embryonic fibroblast",
+    "eIF2α",
     "sinv"
    ]
   },
@@ -12852,6 +14311,7 @@
     }
    ],
    "entities": [
+    "people",
     "anti-retroviral"
    ]
   },
@@ -12865,6 +14325,7 @@
     }
    ],
    "entities": [
+    "nasopharyngeal swab",
     "patient"
    ]
   },
@@ -12878,6 +14339,7 @@
     }
    ],
    "entities": [
+    "bond(s",
     "dithiothreitol"
    ]
   },
@@ -12932,6 +14394,7 @@
     }
    ],
    "entities": [
+    "lipopolysaccharide",
     "lps"
    ]
   },
@@ -12945,6 +14408,8 @@
     }
    ],
    "entities": [
+    "mitochondrial",
+    "cytochrome b",
     "sundaic"
    ]
   },
@@ -12963,6 +14428,36 @@
     }
    ],
    "entities": [
+    "er",
+    "endoplasmic reticulum",
+    "upr",
+    "perk",
+    "pancreatic er kinase (pkr)-like",
+    "er",
+    "ire1",
+    "inositol-requiring enzyme 1",
+    "ire1",
+    "atf6",
+    "atf6",
+    "grp78",
+    "glucose",
+    "alpha",
+    "atf4",
+    "gadd34",
+    "dna",
+    "pp1",
+    "protein phosphatase 1",
+    "xbp1",
+    "x box-binding protein 1",
+    "pdi",
+    "protein disulphide isomerase",
+    "dr5",
+    "trb3",
+    "er oxidase 1a",
+    "ros",
+    "reactive oxygen specie",
+    "pvx",
+    "potato virus x ;",
     "chikv"
    ]
   },
@@ -12989,6 +14484,8 @@
     }
    ],
    "entities": [
+    "cnf2",
+    "necrotoxic e. coli",
     "ntec"
    ]
   },
@@ -13007,6 +14504,8 @@
     }
    ],
    "entities": [
+    "tacrolimus",
+    "ttv dna",
     "cyclosporine"
    ]
   },
@@ -13020,6 +14519,10 @@
     }
    ],
    "entities": [
+    "intracerebral infarct",
+    "patient",
+    "herpes zoster virus encephalitis",
+    "intracerebral",
     "herpes zoster virus encephalitis"
    ]
   },
@@ -13064,6 +14567,7 @@
     }
    ],
    "entities": [
+    "ac-elisa",
     "dev antigen"
    ]
   },
@@ -13077,6 +14581,7 @@
     }
    ],
    "entities": [
+    "hana",
     "membrane"
    ]
   },
@@ -13095,6 +14600,9 @@
     }
    ],
    "entities": [
+    "magnesium",
+    "intracellular",
+    "magnesium",
     "patient"
    ]
   },
@@ -13108,6 +14616,9 @@
     }
    ],
    "entities": [
+    "vp4/2",
+    "vp1",
+    "rhinovirus",
     "Cambodia"
    ]
   },
@@ -13121,6 +14632,15 @@
     }
    ],
    "entities": [
+    "mouse",
+    "cd4",
+    "cd8",
+    "lung",
+    "siga",
+    "pulmonary mucosa",
+    "cd8",
+    "ifn-γ",
+    "tnf-α",
     "cd8"
    ]
   },
@@ -13152,6 +14672,7 @@
     }
    ],
    "entities": [
+    "serum sample",
     "ferret"
    ]
   },
@@ -13209,6 +14730,14 @@
     }
    ],
    "entities": [
+    "citrate synthase",
+    "cytochrome c",
+    "cyc",
+    "adenosine triphosphatase",
+    "na + -k + atpase",
+    "sdha",
+    "dynamin related protein 1",
+    "drp1",
     "egg"
    ]
   },
@@ -13235,6 +14764,9 @@
     }
    ],
    "entities": [
+    "patient",
+    "myocardial infarct",
+    "magnesium sulphate",
     "magnesium"
    ]
   },
@@ -13253,6 +14785,9 @@
     }
    ],
    "entities": [
+    "f glycoprotein",
+    "membrane",
+    "f 1",
     "f 2"
    ]
   },
@@ -13266,6 +14801,7 @@
     }
    ],
    "entities": [
+    "serum",
     "ferret"
    ]
   },
@@ -13279,6 +14815,8 @@
     }
    ],
    "entities": [
+    "lm",
+    "t cell-mediated",
     "cancer"
    ]
   },
@@ -13305,6 +14843,7 @@
     }
    ],
    "entities": [
+    "peroxisome proliferator-activated receptor gamma coactivator 1-alpha",
     "pgc-1α"
    ]
   },
@@ -13331,6 +14870,7 @@
     }
    ],
    "entities": [
+    "sputum specimen",
     "patient"
    ]
   },
@@ -13344,6 +14884,7 @@
     }
    ],
    "entities": [
+    "il-6",
     "patient"
    ]
   },
@@ -13357,6 +14898,7 @@
     }
    ],
    "entities": [
+    "coronaviruse",
     "sars-cov."
    ]
   },
@@ -13388,6 +14930,7 @@
     }
    ],
    "entities": [
+    "bat sars-like coronavirus",
     "sars-cov."
    ]
   },
@@ -13414,6 +14957,7 @@
     }
    ],
    "entities": [
+    "gxxxg-like",
     "transmembrane ␣"
    ]
   },
@@ -13507,6 +15051,8 @@
     }
    ],
    "entities": [
+    "ρ=.33 , pb.001 )",
+    "ρ=.21",
     "pb.05"
    ]
   },
@@ -13520,6 +15066,8 @@
     }
    ],
    "entities": [
+    "cathepsin",
+    "pedv",
     "viral endosomal"
    ]
   },
@@ -13546,6 +15094,7 @@
     }
    ],
    "entities": [
+    "ifn",
     "ifn"
    ]
   },
@@ -13577,6 +15126,7 @@
     }
    ],
    "entities": [
+    "surface",
     "env"
    ]
   },
@@ -13590,6 +15140,8 @@
     }
    ],
    "entities": [
+    "peripheral blood",
+    "patient",
     "non-sars"
    ]
   },
@@ -13603,6 +15155,7 @@
     }
    ],
    "entities": [
+    "ifn",
     "ifn"
    ]
   },
@@ -13629,6 +15182,7 @@
     }
    ],
    "entities": [
+    "dynamics[26 - 29",
     "env[6,30 - 32"
    ]
   },
@@ -13655,6 +15209,7 @@
     }
    ],
    "entities": [
+    "pig",
     "swine"
    ]
   },
@@ -13681,6 +15236,8 @@
     }
    ],
    "entities": [
+    "blood",
+    "defensin",
     "eosinophil-derived neurotoxin"
    ]
   },
@@ -13712,6 +15269,7 @@
     }
    ],
    "entities": [
+    "sars-cov-2",
     "specimen"
    ]
   },
@@ -13743,6 +15301,11 @@
     }
    ],
    "entities": [
+    "ferret coronavirus",
+    "frcov",
+    "ferret coronavirus",
+    "frcov",
+    "yamaguchi-1",
     "frcov"
    ]
   },
@@ -13756,6 +15319,8 @@
     }
    ],
    "entities": [
+    "serum",
+    "plasma",
     "ferret"
    ]
   },
@@ -13795,6 +15360,7 @@
     }
    ],
    "entities": [
+    "hiv-1",
     "glycoprotein"
    ]
   },
@@ -13808,6 +15374,9 @@
     }
    ],
    "entities": [
+    "cell",
+    "hvj",
+    "membrane",
     "membrane assembly { 1"
    ]
   },
@@ -13852,6 +15421,7 @@
     }
    ],
    "entities": [
+    "ferret",
     "frcov."
    ]
   },
@@ -13878,6 +15448,7 @@
     }
    ],
    "entities": [
+    "interleukin-6",
     "il-6"
    ]
   },
@@ -13909,6 +15480,9 @@
     }
    ],
    "entities": [
+    "liδ-rv3875",
+    "liδ-rv0129c",
+    "mtb esat-6",
     "ag85c"
    ]
   },
@@ -13958,6 +15532,7 @@
     }
    ],
    "entities": [
+    "ric-sct",
     "aml"
    ]
   },
@@ -13971,6 +15546,8 @@
     }
    ],
    "entities": [
+    "human",
+    "coronavirus",
     "sars-cov"
    ]
   },
@@ -13984,6 +15561,9 @@
     }
    ],
    "entities": [
+    "human",
+    "human",
+    "wildlife",
     "globe"
    ]
   },
@@ -14072,6 +15652,7 @@
     }
    ],
    "entities": [
+    "sosip",
     "hiv-1 env trimer"
    ]
   },
@@ -14134,6 +15715,10 @@
     }
    ],
    "entities": [
+    "heterotopic bone",
+    "posterolateral lumbar",
+    "human bone morphogenetic protein-2",
+    "rhbmp-2",
     "tubular"
    ]
   },
@@ -14147,6 +15732,9 @@
     }
    ],
    "entities": [
+    "r t",
+    "coronavirus",
+    "r t",
     "coronavirus"
    ]
   },
@@ -14160,6 +15748,7 @@
     }
    ],
    "entities": [
+    "specimen",
     "covid-19 patient"
    ]
   },
@@ -14186,6 +15775,7 @@
     }
    ],
    "entities": [
+    "magnesium (Mg)-based",
     "tissue"
    ]
   },
@@ -14204,6 +15794,7 @@
     }
    ],
    "entities": [
+    "coronavirus",
     "Korea"
    ]
   },
@@ -14217,6 +15808,7 @@
     }
    ],
    "entities": [
+    "sars-cov-like virus",
     "human sars-cov"
    ]
   },
@@ -14243,6 +15835,10 @@
     }
    ],
    "entities": [
+    "patient",
+    "il-6",
+    "≥",
+    "patient",
     "il-6"
    ]
   },
@@ -14256,6 +15852,8 @@
     }
    ],
    "entities": [
+    "coronavirus",
+    "civid-19",
     "wuhan-china"
    ]
   },
@@ -14344,6 +15942,7 @@
     }
    ],
    "entities": [
+    "ferret",
     "cxcl9"
    ]
   },
@@ -14393,6 +15992,7 @@
     }
    ],
    "entities": [
+    "wildlife",
     "human"
    ]
   },
@@ -14406,6 +16006,8 @@
     }
    ],
    "entities": [
+    "coronavirus sars-cov2",
+    "lifes",
     "globe"
    ]
   },
@@ -14437,6 +16039,9 @@
     }
    ],
    "entities": [
+    "patient",
+    "gastrointestinal malignancy",
+    "COVID-19",
     "https://doi"
    ]
   },
@@ -14455,6 +16060,10 @@
     }
    ],
    "entities": [
+    "chill",
+    "lymphocyte",
+    "serum transaminase",
+    "lactate dehydrogenase",
     "ldh"
    ]
   },
@@ -14468,6 +16077,7 @@
     }
    ],
    "entities": [
+    "COVID-19",
     "sars-cov-2 virus"
    ]
   },
@@ -14486,6 +16096,7 @@
     }
    ],
    "entities": [
+    "patient",
     "woman"
    ]
   },
@@ -14499,6 +16110,7 @@
     }
    ],
    "entities": [
+    "lung cd8 + t rm cell",
     "t rm"
    ]
   },
@@ -14512,6 +16124,7 @@
     }
    ],
    "entities": [
+    "lung cd8 + t rm cell",
     "cell"
    ]
   }
