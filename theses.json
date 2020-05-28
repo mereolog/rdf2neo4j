@@ -3,6 +3,12 @@
   {
    "content": "Results: The one-step H1N1 swl matrix rtRT-PCR successfully detected H1N1 swl clinical specimens and did not cross-react with seasonal influenza A, subtypes H1N1 and H3N2 viruses and swine influenza A (H1N1).",
    "quasi_functional_thesis": 98.9850759506,
+   "types": [
+    {
+     "type": "http://onto.beef.org.pl/science/QuasiFunctionalLaw",
+     "probability": 98.9850759506
+    }
+   ],
    "entities": [
     "h1n1"
    ]
@@ -10,13 +16,43 @@
   {
    "content": "As expected, cats from endemic areas produce IFN-γ after ex vivo blood stimulation with LSA and therefore are able to activate a cell-mediated adaptive immune response against the parasite that is variably associated with antibody or blood PCR positivity.",
    "methodological_thesis": 99.9940693378,
+   "types": [
+    {
+     "type": "http://onto.beef.org.pl/science/MethodologicalLaw",
+     "probability": 99.9940693378
+    }
+   ],
    "entities": [
     "blood"
    ]
   },
   {
+   "content": "The H1N1 swl matrix assay did cross react with H5N1.",
+   "quasi_functional_thesis": 94.8596835136,
+   "inclusion_thesis": 93.8604235649,
+   "types": [
+    {
+     "type": "http://onto.beef.org.pl/science/QuasiFunctionalLaw",
+     "probability": 94.8596835136
+    },
+    {
+     "type": "http://onto.beef.org.pl/science/InclusionLaw",
+     "probability": 93.8604235649
+    }
+   ],
+   "entities": [
+    "h5n1"
+   ]
+  },
+  {
    "content": "For successful cell fusion, two sequential steps of electric pulse stimulation are required for the alignment (pearl chain formation) of two different types of cells between electrodes in response to alternating current stimulation and for the fusion of cytoplasmic membranes by direct current stimulation.",
    "quasi_functional_thesis": 97.8340506554,
+   "types": [
+    {
+     "type": "http://onto.beef.org.pl/science/QuasiFunctionalLaw",
+     "probability": 97.8340506554
+    }
+   ],
    "entities": [
     "cytoplasmic membrane"
    ]
@@ -24,6 +60,12 @@
   {
    "content": "This approach can lead to a limited understanding of trust in physicians as trust is based on the relationship, an interaction of both parties: patients and physicians.",
    "methodological_thesis": 99.9825894833,
+   "types": [
+    {
+     "type": "http://onto.beef.org.pl/science/MethodologicalLaw",
+     "probability": 99.9825894833
+    }
+   ],
    "entities": [
     "patient"
    ]
@@ -31,13 +73,84 @@
   {
    "content": "derived from parental cells coordinately regulates the new phenotypes and functions of somatic hybrid cells.",
    "inclusion_thesis": 98.0052709579,
+   "types": [
+    {
+     "type": "http://onto.beef.org.pl/science/InclusionLaw",
+     "probability": 98.0052709579
+    }
+   ],
    "entities": [
     "somatic hybrid cell"
    ]
   },
   {
+   "content": "Conclusions: TIVA with sufentanil-midazolam provided smooth induction and recovery of anaesthesia in rabbits but with marked hypotension and respiratory depression, requiring mechanical ventilation.",
+   "quasi_functional_thesis": 96.2898015976,
+   "inclusion_thesis": 98.742890358,
+   "types": [
+    {
+     "type": "http://onto.beef.org.pl/science/QuasiFunctionalLaw",
+     "probability": 96.2898015976
+    },
+    {
+     "type": "http://onto.beef.org.pl/science/InclusionLaw",
+     "probability": 98.742890358
+    }
+   ],
+   "entities": [
+    "rabbit"
+   ]
+  },
+  {
    "content": "This study aimed to investigate the factors for trust in physicians among the Koreans by focusing on patients' traits which are related to their subjective perceptions.",
    "quasi_functional_thesis": 94.4436907768,
+   "types": [
+    {
+     "type": "http://onto.beef.org.pl/science/QuasiFunctionalLaw",
+     "probability": 94.4436907768
+    }
+   ],
+   "entities": [
+    "patient"
+   ]
+  },
+  {
+   "content": "One well-known cell fusion phenomenon occurring in vivo is fertilization.",
+   "quasi_functional_thesis": 92.0006632805,
+   "inclusion_thesis": 93.6852276325,
+   "types": [
+    {
+     "type": "http://onto.beef.org.pl/science/QuasiFunctionalLaw",
+     "probability": 92.0006632805
+    },
+    {
+     "type": "http://onto.beef.org.pl/science/InclusionLaw",
+     "probability": 93.6852276325
+    }
+   ],
+   "entities": [
+    "cell"
+   ]
+  },
+  {
+   "content": "We simulated a suite of scenarios to assess the impact of differing approaches to relaxing social distancing measures from 7th May 2020, on the estimated number of patients requiring inpatient and critical care treatment, and deaths.",
+   "quasi_functional_thesis": 97.4905133247,
+   "inclusion_thesis": 99.4091033936,
+   "methodological_thesis": 96.8186795712,
+   "types": [
+    {
+     "type": "http://onto.beef.org.pl/science/QuasiFunctionalLaw",
+     "probability": 97.4905133247
+    },
+    {
+     "type": "http://onto.beef.org.pl/science/InclusionLaw",
+     "probability": 99.4091033936
+    },
+    {
+     "type": "http://onto.beef.org.pl/science/MethodologicalLaw",
+     "probability": 96.8186795712
+    }
+   ],
    "entities": [
     "patient"
    ]
